@@ -14,7 +14,7 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              cutoff=1, 
                              out_dir="output_dir", 
                              cluster_by_groups=T, 
-                             plot_steps=T,
+                             plot_steps=F,
                              use_zscores=F
                              )
 
