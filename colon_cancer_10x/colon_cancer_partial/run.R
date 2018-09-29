@@ -1,12 +1,17 @@
 #!/usr/bin/env Rscript
 
+if (file.exists("counts.small.matrix.gz") & ! file.exists("counts.small.matrix") ) {
+    system("gunzip -c counts.small.matrix.gz > counts.small.matrix")
+}
+
+
 library("infercnv")
 
                                         # create the infercnv object
 infercnv_obj = CreateInfercnvObject(raw_counts_matrix="counts.small.matrix",
                                     annotations_file="sample_annots.small.txt",
                                     delim="\t",
-                                    gene_order_file="gencode_v19_gene_pos.txt",
+                                    gene_order_file="../../__gene_position_data/gencode_v19_gene_pos.txt",
                                     ref_group_names=c("C121_Normal",
                                                       "C124_Normal",
                                                       "C126_Normal",
@@ -37,4 +42,3 @@ plot_cnv(infercnv_obj,
          output_filename="infercnv")
 
 
-run.R (END)
