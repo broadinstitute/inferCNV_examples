@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 
-if (file.exists(expression.cp100k.matrix.gz) & ! file.exists(expression.cp100k.matrix) ) {
+if (file.exists('expression.cp100k.matrix.gz') & ! file.exists('expression.cp100k.matrix') ) {
     system("gunzip -c expression.cp100k.matrix.gz > expression.cp100k.matrix")
 }
 
