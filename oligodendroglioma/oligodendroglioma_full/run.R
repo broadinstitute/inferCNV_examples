@@ -22,6 +22,7 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              cluster_by_groups=T, 
                              plot_steps=F,
                              use_zscores=F,
+                             include.spike=T
                              )
 
 # generate final plot
