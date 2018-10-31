@@ -18,18 +18,3 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              include.spike=T
                              )
 
-save('infercnv_obj', file="infercnv_obj.final")
-
-# generate final plot
-plot_cnv(infercnv_obj,
-         out_dir="output_dir", 
-         cluster_by_groups=T,
-         color_safe_pal=FALSE,
-         x.center=1,
-         x.range=c(0,2),
-         title="inferCNV",
-         obs_title="Observations (Cells)",
-         ref_title="References (Cells)",
-         output_filename="infercnv")
-
-
