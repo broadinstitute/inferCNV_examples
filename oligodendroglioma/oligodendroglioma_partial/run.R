@@ -14,8 +14,8 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              cutoff=1, 
                              out_dir="output_dir", 
                              cluster_by_groups=T, 
-                             plot_steps=T,
-                             use_zscores=F,
+                             plot_steps=F,
+                             include.spike=T
                              )
 
 # generate final plot
@@ -24,7 +24,7 @@ plot_cnv(infercnv_obj,
          cluster_by_groups=T,
          color_safe_pal=FALSE,
          x.center=1,
-         x.range=c(0.6,1.4),
+         x.range=c(0,2),
          title="inferCNV",
          obs_title="Observations (Cells)",
          ref_title="References (Cells)",
