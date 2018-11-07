@@ -26,15 +26,3 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              mask_nonDE_genes=T,
                              )
 
-# generate final plot
-plot_cnv(infercnv_obj,
-         out_dir="output_dir", 
-         cluster_by_groups=T,
-         color_safe_pal=FALSE,
-         x.center=1,
-         title="inferCNV",
-         obs_title="Observations (Cells)",
-         ref_title="References (Cells)",
-         output_filename="infercnv")
-
-
