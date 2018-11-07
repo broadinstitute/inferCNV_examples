@@ -1,0 +1,40 @@
+data from Patel, Tirosh et al.
+
+
+data = read.table("GTEx_Analysis_2016-01-15_v7_RNASeQCv1.1.8_gene_reads.gct")
+
+# get the brain samples
+brain.samples = read.table("gtex.brain.samples")[,1]
+
+# get the genes in the glio count matrix:
+glio = read.table("glioblastoma.sc.counts.matrix") # from sc portal, inv(log2 +1)
+
+# get subset of data containing the genes of interest
+data.wgenes = data[na.omit(match(rownames(glio), data[,1])),]
+
+dim(data.wgenes)
+# [1]  5796 11689
+rownames(data.wgenes) = data.wgenes[,1]
+
+# get brain samples
+data.wgenes = data.wgenes[, colnames(data.wgenes) %in% brain.samples]
+dim(data.wgenes)
+# [1] 5796 1671
+
+genes.both = intersect(rownames(glio), rownames(data.wgenes))
+length(genes.both)
+# [1] 5796
+
+# make consistent ordering
+data.wgenes = data.wgenes[genes.both,]
+glio = glio[genes.both,]
+> dim(glio)
+[1] 5796  430
+> dim(data.wgenes)
+[1] 5796 1671
+
+# merge them
+merged.matrix = cbind(data.wgenes, glio)
+
+write.table(merged.matrix, file="glio.wGtexBrain.counts.matrix", quote=F, sep="\t")
+

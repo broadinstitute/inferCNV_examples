@@ -1,0 +1,1456 @@
+GTEX-1117F-3226-SM-5N9CT	Brain - Cortex
+GTEX-111FC-3126-SM-5GZZ2	Brain - Cortex
+GTEX-111FC-3326-SM-5GZYV	Brain - Cerebellum
+GTEX-1128S-2726-SM-5H12C	Brain - Cortex
+GTEX-1128S-2826-SM-5N9DI	Brain - Cerebellum
+GTEX-117XS-3026-SM-5N9CA	Brain - Cortex
+GTEX-117XS-3126-SM-5GIDP	Brain - Cerebellum
+GTEX-1192X-3126-SM-5N9BY	Brain - Cortex
+GTEX-1192X-3226-SM-5987D	Brain - Cerebellum
+GTEX-11DXW-1026-SM-5H11K	Brain - Cerebellum
+GTEX-11DXW-1126-SM-5H12Q	Brain - Cortex
+GTEX-11DXY-3126-SM-5N9BT	Brain - Cerebellum
+GTEX-11DXY-3226-SM-5GIDE	Brain - Cortex
+GTEX-11DYG-2926-SM-5H132	Brain - Cerebellum
+GTEX-11DZ1-2926-SM-5A5KI	Brain - Cerebellum
+GTEX-11EI6-2926-SM-5985U	Brain - Cerebellum
+GTEX-11EI6-3026-SM-5GZZO	Brain - Cortex
+GTEX-11EMC-3226-SM-5EGKW	Brain - Cortex
+GTEX-11EMC-3326-SM-5P9JH	Brain - Cerebellum
+GTEX-11GS4-3126-SM-5A5LH	Brain - Cortex
+GTEX-11GSO-0011-R1b-SM-57WD3	Brain - Hippocampus
+GTEX-11GSO-2926-SM-5HL73	Brain - Cortex
+GTEX-11GSO-3026-SM-5Q5AL	Brain - Cerebellum
+GTEX-11GSP-0011-R10a-SM-5NQ7J	Brain - Frontal Cortex (BA9)
+GTEX-11GSP-0011-R11b-SM-5NQ7V	Brain - Cerebellar Hemisphere
+GTEX-11GSP-0011-R5a-SM-57WBE	Brain - Caudate (basal ganglia)
+GTEX-11GSP-0011-R6b-SM-57WBQ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11GSP-3126-SM-5A5LL	Brain - Cerebellum
+GTEX-11GSP-3226-SM-5986O	Brain - Cortex
+GTEX-11H98-0011-R10b-SM-5NQ98	Brain - Frontal Cortex (BA9)
+GTEX-11H98-0011-R11b-SM-5NQ6U	Brain - Cerebellar Hemisphere
+GTEX-11H98-0011-R5b-SM-57WCF	Brain - Caudate (basal ganglia)
+GTEX-11NUK-2926-SM-5A5MD	Brain - Cortex
+GTEX-11NUK-3026-SM-5986K	Brain - Cerebellum
+GTEX-11NV4-0011-R5a-SM-5NQ88	Brain - Caudate (basal ganglia)
+GTEX-11NV4-0011-R6a-SM-57WD5	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11NV4-2126-SM-5N9DS	Brain - Cortex
+GTEX-11NV4-2226-SM-5BC4T	Brain - Cerebellum
+GTEX-11O72-2826-SM-5HL6W	Brain - Cerebellum
+GTEX-11O72-2926-SM-5BC4V	Brain - Cortex
+GTEX-11OC5-0626-SM-5HL6M	Brain - Cerebellum
+GTEX-11OC5-0726-SM-5P9JK	Brain - Cortex
+GTEX-11OF3-0011-R11a-SM-57WCR	Brain - Cerebellar Hemisphere
+GTEX-11OF3-0011-R5a-SM-57WB4	Brain - Caudate (basal ganglia)
+GTEX-11OF3-0011-R6b-SM-57WBG	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11ONC-0011-R1a-SM-57WD4	Brain - Hippocampus
+GTEX-11ONC-2926-SM-5P9JM	Brain - Cortex
+GTEX-11ONC-3026-SM-5985W	Brain - Cerebellum
+GTEX-11PRG-2826-SM-5BC54	Brain - Cerebellum
+GTEX-11PRG-2926-SM-5987A	Brain - Cortex
+GTEX-11TTK-2826-SM-5GU5K	Brain - Cerebellum
+GTEX-11TTK-2926-SM-5PNYP	Brain - Cortex
+GTEX-11TUW-0011-R5b-SM-5BC6Q	Brain - Caudate (basal ganglia)
+GTEX-11UD1-0011-R1b-SM-5BC7D	Brain - Hippocampus
+GTEX-11UD1-0011-R5b-SM-5P9FP	Brain - Caudate (basal ganglia)
+GTEX-11WQC-0011-R10a-SM-57WCT	Brain - Frontal Cortex (BA9)
+GTEX-11WQC-0011-R11b-SM-57WD6	Brain - Cerebellar Hemisphere
+GTEX-11WQC-0011-R5a-SM-5BC74	Brain - Caudate (basal ganglia)
+GTEX-11WQC-0011-R6a-SM-5BC77	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11WQK-0011-R10a-SM-5BC6R	Brain - Frontal Cortex (BA9)
+GTEX-11WQK-3026-SM-5EQL6	Brain - Cortex
+GTEX-11ZTS-0011-R1a-SM-5BC71	Brain - Hippocampus
+GTEX-11ZTS-3226-SM-5EGID	Brain - Cerebellum
+GTEX-11ZUS-0011-R10b-SM-5BC79	Brain - Frontal Cortex (BA9)
+GTEX-11ZUS-0011-R11b-SM-5BC7B	Brain - Cerebellar Hemisphere
+GTEX-11ZUS-2826-SM-5EQKW	Brain - Cerebellum
+GTEX-11ZUS-2926-SM-5FQSL	Brain - Cortex
+GTEX-11ZVC-0011-R1b-SM-5BC6M	Brain - Hippocampus
+GTEX-11ZVC-3026-SM-59HJM	Brain - Cerebellum
+GTEX-12126-0011-R10b-SM-5BC6T	Brain - Frontal Cortex (BA9)
+GTEX-12126-0011-R11a-SM-5BC6X	Brain - Cerebellar Hemisphere
+GTEX-12126-0926-SM-5FQTW	Brain - Cerebellum
+GTEX-12126-1026-SM-5P9JJ	Brain - Cortex
+GTEX-1212Z-0011-R1b-SM-5BC72	Brain - Hippocampus
+GTEX-12584-0011-R6a-SM-5NQ7C	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12696-3026-SM-5FQTU	Brain - Cerebellum
+GTEX-1269C-3126-SM-5EGI6	Brain - Cerebellum
+GTEX-12WSA-0011-R10b-SM-5P9ET	Brain - Frontal Cortex (BA9)
+GTEX-12WSA-0011-R5b-SM-5GU5I	Brain - Caudate (basal ganglia)
+GTEX-12WSA-2926-SM-5EQ4D	Brain - Cortex
+GTEX-12WSC-0011-R10a-SM-5GU57	Brain - Frontal Cortex (BA9)
+GTEX-12WSC-0011-R11a-SM-5GU5J	Brain - Cerebellar Hemisphere
+GTEX-12WSC-0011-R5b-SM-5CVNS	Brain - Caudate (basal ganglia)
+GTEX-12WSC-0011-R6b-SM-5LU99	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12WSC-2926-SM-5BC5Z	Brain - Cerebellum
+GTEX-12WSC-3026-SM-5GCNF	Brain - Cortex
+GTEX-12WSD-0011-R10b-SM-5GU79	Brain - Frontal Cortex (BA9)
+GTEX-12WSD-0011-R1b-SM-5LZVY	Brain - Hippocampus
+GTEX-12WSD-0011-R5b-SM-5CVNG	Brain - Caudate (basal ganglia)
+GTEX-12WSD-0011-R6b-SM-5P9JU	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12WSD-3026-SM-5LZU7	Brain - Cerebellum
+GTEX-12WSD-3126-SM-5HL7P	Brain - Cortex
+GTEX-12WSE-0011-R10b-SM-5P9JV	Brain - Frontal Cortex (BA9)
+GTEX-12WSE-0011-R11b-SM-5P9JW	Brain - Cerebellar Hemisphere
+GTEX-12WSE-0011-R1b-SM-5GU4V	Brain - Hippocampus
+GTEX-12WSE-0011-R6b-SM-5LZV5	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12WSE-2926-SM-5RQJ9	Brain - Cerebellum
+GTEX-12WSF-0011-R10a-SM-5LZVH	Brain - Frontal Cortex (BA9)
+GTEX-12WSF-0011-R11a-SM-5LZVT	Brain - Cerebellar Hemisphere
+GTEX-12WSF-0011-R1a-SM-5DUVI	Brain - Hippocampus
+GTEX-12WSF-0011-R5a-SM-5HL8K	Brain - Caudate (basal ganglia)
+GTEX-12WSF-0011-R6b-SM-5HL8W	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12WSF-3126-SM-6M478	Brain - Cortex
+GTEX-12WSH-0011-R10a-SM-5LZUS	Brain - Frontal Cortex (BA9)
+GTEX-12WSH-0011-R11a-SM-5LZVM	Brain - Cerebellar Hemisphere
+GTEX-12WSH-0011-R1a-SM-5GU5V	Brain - Hippocampus
+GTEX-12WSH-0011-R5b-SM-5P9F3	Brain - Caudate (basal ganglia)
+GTEX-12WSH-0011-R6b-SM-5P9F4	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12WSH-3026-SM-5CVNI	Brain - Cortex
+GTEX-12WSH-3126-SM-5LZW8	Brain - Cerebellum
+GTEX-12WSI-0011-R11b-SM-5P9EZ	Brain - Cerebellar Hemisphere
+GTEX-12WSM-0011-R10a-SM-5DUWV	Brain - Frontal Cortex (BA9)
+GTEX-12WSM-0011-R11a-SM-5DUX8	Brain - Cerebellar Hemisphere
+GTEX-12WSM-0011-R1a-SM-5LZW6	Brain - Hippocampus
+GTEX-12WSM-0011-R5a-SM-5EQ4Y	Brain - Caudate (basal ganglia)
+GTEX-12WSM-0011-R6b-SM-5EQ6N	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12WSM-2126-SM-5GCOC	Brain - Cerebellum
+GTEX-12ZZW-0011-R10b-SM-5HL9X	Brain - Frontal Cortex (BA9)
+GTEX-12ZZW-0011-R5a-SM-5DUVN	Brain - Caudate (basal ganglia)
+GTEX-12ZZW-0011-R6a-SM-5DUVZ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12ZZW-2926-SM-5LZUP	Brain - Cortex
+GTEX-12ZZX-0011-R10b-SM-5DUWK	Brain - Frontal Cortex (BA9)
+GTEX-12ZZX-0011-R11a-SM-5DUVJ	Brain - Cerebellar Hemisphere
+GTEX-12ZZX-0011-R1a-SM-5EQ6B	Brain - Hippocampus
+GTEX-12ZZX-0011-R5a-SM-5HL89	Brain - Caudate (basal ganglia)
+GTEX-12ZZX-0011-R6a-SM-5HL8L	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12ZZX-2826-SM-5BC6K	Brain - Cerebellum
+GTEX-12ZZX-2926-SM-5GCOQ	Brain - Cortex
+GTEX-12ZZY-0011-R10b-SM-5HL7W	Brain - Frontal Cortex (BA9)
+GTEX-12ZZY-0011-R5a-SM-5EGL9	Brain - Caudate (basal ganglia)
+GTEX-12ZZY-0011-R6b-SM-5EGLA	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12ZZY-2926-SM-5DUXO	Brain - Cerebellum
+GTEX-12ZZY-3026-SM-5GCOU	Brain - Cortex
+GTEX-12ZZZ-0011-R10a-SM-5P9HC	Brain - Frontal Cortex (BA9)
+GTEX-12ZZZ-0011-R11a-SM-5EGLC	Brain - Cerebellar Hemisphere
+GTEX-12ZZZ-0011-R5a-SM-5EQ4M	Brain - Caudate (basal ganglia)
+GTEX-12ZZZ-0011-R6b-SM-5EQ5B	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12ZZZ-3026-SM-5BC67	Brain - Cortex
+GTEX-12ZZZ-3126-SM-5LZU6	Brain - Cerebellum
+GTEX-13112-0011-R1b-SM-5HL7K	Brain - Hippocampus
+GTEX-13112-0011-R5b-SM-5DUV8	Brain - Caudate (basal ganglia)
+GTEX-13112-0011-R6b-SM-5DUVK	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13112-2926-SM-5DUWT	Brain - Cerebellum
+GTEX-1313W-0011-R10b-SM-5DUXA	Brain - Frontal Cortex (BA9)
+GTEX-1313W-0011-R11a-SM-5DUXN	Brain - Cerebellar Hemisphere
+GTEX-1313W-0011-R1b-SM-5EQ4A	Brain - Hippocampus
+GTEX-1313W-0011-R5b-SM-5L3EP	Brain - Caudate (basal ganglia)
+GTEX-1313W-0011-R6a-SM-5K7XO	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1313W-3026-SM-5LZUZ	Brain - Cerebellum
+GTEX-1313W-3126-SM-5LZUI	Brain - Cortex
+GTEX-131XH-0011-R10a-SM-5EGLJ	Brain - Frontal Cortex (BA9)
+GTEX-131XH-0011-R11a-SM-5EGLN	Brain - Cerebellar Hemisphere
+GTEX-131XH-0011-R1a-SM-5DUWA	Brain - Hippocampus
+GTEX-131XH-0011-R6a-SM-5KM2G	Brain - Nucleus accumbens (basal ganglia)
+GTEX-131XH-2926-SM-5LZU4	Brain - Cerebellum
+GTEX-131XW-0011-R10a-SM-5DUVA	Brain - Frontal Cortex (BA9)
+GTEX-131XW-0011-R11a-SM-5DUV9	Brain - Cerebellar Hemisphere
+GTEX-131XW-0011-R6b-SM-5K7XY	Brain - Nucleus accumbens (basal ganglia)
+GTEX-131XW-3126-SM-5LZUC	Brain - Cortex
+GTEX-131YS-0011-R10b-SM-5EQ5N	Brain - Frontal Cortex (BA9)
+GTEX-131YS-0011-R11b-SM-5EGLM	Brain - Cerebellar Hemisphere
+GTEX-131YS-0011-R1a-SM-5DUXC	Brain - Hippocampus
+GTEX-131YS-0011-R5b-SM-5K7YB	Brain - Caudate (basal ganglia)
+GTEX-131YS-3026-SM-5EGHY	Brain - Cerebellum
+GTEX-131YS-3126-SM-5KLYT	Brain - Cortex
+GTEX-132Q8-0011-R10b-SM-5DUWZ	Brain - Frontal Cortex (BA9)
+GTEX-132Q8-0011-R11b-SM-5DUW9	Brain - Cerebellar Hemisphere
+GTEX-132Q8-0011-R1a-SM-5EGLK	Brain - Hippocampus
+GTEX-132Q8-0011-R5a-SM-5IJDM	Brain - Caudate (basal ganglia)
+GTEX-132Q8-0011-R6a-SM-5K7YN	Brain - Nucleus accumbens (basal ganglia)
+GTEX-132Q8-2926-SM-5IFFP	Brain - Cerebellum
+GTEX-132Q8-3026-SM-5PNVG	Brain - Cortex
+GTEX-1399T-0011-R11a-SM-5J2O1	Brain - Cerebellar Hemisphere
+GTEX-1399T-0011-R1b-SM-5DUWN	Brain - Hippocampus
+GTEX-1399T-0011-R5b-SM-5IJDK	Brain - Caudate (basal ganglia)
+GTEX-1399T-0011-R6b-SM-5K7YL	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1399T-3026-SM-5KLZC	Brain - Cortex
+GTEX-1399T-3126-SM-5IJFS	Brain - Cerebellum
+GTEX-139T8-0011-R1a-SM-5HL75	Brain - Hippocampus
+GTEX-139T8-0011-R5b-SM-5J1MO	Brain - Caudate (basal ganglia)
+GTEX-139T8-1026-SM-5J2MC	Brain - Cortex
+GTEX-139TS-0011-R10a-SM-5K7TU	Brain - Frontal Cortex (BA9)
+GTEX-139TS-0011-R5b-SM-5J2MZ	Brain - Caudate (basal ganglia)
+GTEX-139TS-0011-R6a-SM-5J2OB	Brain - Nucleus accumbens (basal ganglia)
+GTEX-139TS-3126-SM-5LZWX	Brain - Cerebellum
+GTEX-139TT-0011-R11b-SM-5LZV1	Brain - Cerebellar Hemisphere
+GTEX-139TT-0011-R1a-SM-5LZVD	Brain - Hippocampus
+GTEX-139TT-0011-R5b-SM-5K7W8	Brain - Caudate (basal ganglia)
+GTEX-139TT-0011-R6b-SM-5J2ON	Brain - Nucleus accumbens (basal ganglia)
+GTEX-139TT-2626-SM-5LZUB	Brain - Cerebellum
+GTEX-139TU-0011-R5b-SM-5L3E1	Brain - Caudate (basal ganglia)
+GTEX-139UW-0011-R11a-SM-5IJGN	Brain - Cerebellar Hemisphere
+GTEX-13CF2-0011-R11b-SM-5LZXO	Brain - Cerebellar Hemisphere
+GTEX-13CF2-0011-R1a-SM-5LZY1	Brain - Hippocampus
+GTEX-13CF2-0011-R5a-SM-5LZWS	Brain - Caudate (basal ganglia)
+GTEX-13CF2-3026-SM-5IFFX	Brain - Cerebellum
+GTEX-13CIG-0011-R5b-SM-5L3F2	Brain - Caudate (basal ganglia)
+GTEX-13CZV-0011-R10b-SM-5LZYD	Brain - Frontal Cortex (BA9)
+GTEX-13CZV-0011-R11b-SM-5N9FN	Brain - Cerebellar Hemisphere
+GTEX-13CZV-0011-R5a-SM-5K7XA	Brain - Caudate (basal ganglia)
+GTEX-13FHO-0011-R10b-SM-5J2MM	Brain - Frontal Cortex (BA9)
+GTEX-13FHO-0011-R11b-SM-5LZYQ	Brain - Cerebellar Hemisphere
+GTEX-13FHO-0011-R1b-SM-5KLZG	Brain - Hippocampus
+GTEX-13FHO-0011-R5b-SM-5LZZ3	Brain - Caudate (basal ganglia)
+GTEX-13FHO-0011-R6b-SM-5LZX1	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13FHO-2926-SM-5L3ES	Brain - Cerebellum
+GTEX-13FHO-3026-SM-5J1O9	Brain - Cortex
+GTEX-13FHP-0011-R11b-SM-5LZXP	Brain - Cerebellar Hemisphere
+GTEX-13FHP-0011-R1b-SM-5K7XL	Brain - Hippocampus
+GTEX-13FHP-0011-R5b-SM-5LZY2	Brain - Caudate (basal ganglia)
+GTEX-13FHP-0011-R6b-SM-5LZY6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13FHP-2926-SM-5IJG9	Brain - Cerebellum
+GTEX-13FHP-3026-SM-5IJBS	Brain - Cortex
+GTEX-13FLV-0011-R10b-SM-5LZZ2	Brain - Frontal Cortex (BA9)
+GTEX-13FLV-0011-R11a-SM-5LZZ7	Brain - Cerebellar Hemisphere
+GTEX-13FLV-0011-R5a-SM-5LZWT	Brain - Caudate (basal ganglia)
+GTEX-13FLV-0011-R6a-SM-5KLZ4	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13FLW-0011-R10b-SM-5LZZF	Brain - Frontal Cortex (BA9)
+GTEX-13FLW-0011-R1b-SM-5LZX2	Brain - Hippocampus
+GTEX-13FLW-0011-R5a-SM-5LZX6	Brain - Caudate (basal ganglia)
+GTEX-13FLW-0011-R6b-SM-5L3EN	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13FLW-1426-SM-5K7YE	Brain - Cortex
+GTEX-13FTY-0011-R11a-SM-5IJEA	Brain - Cerebellar Hemisphere
+GTEX-13FTY-0011-R1a-SM-5LZXE	Brain - Hippocampus
+GTEX-13FTZ-0011-R10b-SM-5KLZS	Brain - Frontal Cortex (BA9)
+GTEX-13FXS-0011-R10a-SM-5J2MA	Brain - Frontal Cortex (BA9)
+GTEX-13FXS-0011-R11a-SM-5L3DM	Brain - Cerebellar Hemisphere
+GTEX-13FXS-0011-R1a-SM-5K7U6	Brain - Hippocampus
+GTEX-13FXS-0011-R5b-SM-5LZYE	Brain - Caudate (basal ganglia)
+GTEX-13FXS-0011-R6b-SM-5L3F7	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13FXS-3026-SM-5LZYO	Brain - Cerebellum
+GTEX-13FXS-3126-SM-5J2NN	Brain - Cortex
+GTEX-13G51-0011-R10b-SM-5LZYF	Brain - Frontal Cortex (BA9)
+GTEX-13G51-0011-R11b-SM-5J2NE	Brain - Cerebellar Hemisphere
+GTEX-13G51-0011-R1a-SM-5LZYR	Brain - Hippocampus
+GTEX-13G51-0011-R5a-SM-5L3EB	Brain - Caudate (basal ganglia)
+GTEX-13G51-0011-R6b-SM-5LZX4	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13G51-3126-SM-5IJG7	Brain - Cerebellum
+GTEX-13IVO-0011-R10a-SM-5LZY3	Brain - Frontal Cortex (BA9)
+GTEX-13IVO-0011-R5a-SM-5L3CY	Brain - Caudate (basal ganglia)
+GTEX-13IVO-0011-R6b-SM-5K7X9	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13IVO-2926-SM-5L3CZ	Brain - Cortex
+GTEX-13JUV-0011-R10b-SM-5LZXR	Brain - Frontal Cortex (BA9)
+GTEX-13JUV-0011-R11a-SM-5LZYH	Brain - Cerebellar Hemisphere
+GTEX-13JUV-0011-R1a-SM-5LZY4	Brain - Hippocampus
+GTEX-13JUV-0011-R5a-SM-5LZY5	Brain - Caudate (basal ganglia)
+GTEX-13JUV-0011-R6b-SM-5LZYG	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13JUV-2926-SM-5LZX7	Brain - Cortex
+GTEX-13JUV-3026-SM-5K7WX	Brain - Cerebellum
+GTEX-13JVG-0011-R10b-SM-5KM2P	Brain - Frontal Cortex (BA9)
+GTEX-13JVG-0011-R11a-SM-5KM53	Brain - Cerebellar Hemisphere
+GTEX-13JVG-0011-R1a-SM-5KM32	Brain - Hippocampus
+GTEX-13JVG-0011-R5a-SM-5MR4O	Brain - Caudate (basal ganglia)
+GTEX-13JVG-0011-R6a-SM-5MR3E	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13JVG-3126-SM-5L3FH	Brain - Cortex
+GTEX-13JVG-3226-SM-5IJGJ	Brain - Cerebellum
+GTEX-13N1W-0011-R10b-SM-5MR4H	Brain - Frontal Cortex (BA9)
+GTEX-13N1W-0011-R1b-SM-5MR4T	Brain - Hippocampus
+GTEX-13N1W-0011-R5b-SM-5MR5Q	Brain - Caudate (basal ganglia)
+GTEX-13N1W-0011-R6a-SM-5MR43	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13N2G-0011-R10a-SM-5MR34	Brain - Frontal Cortex (BA9)
+GTEX-13N2G-0011-R11a-SM-5MR3F	Brain - Cerebellar Hemisphere
+GTEX-13N2G-0011-R1b-SM-5MR3G	Brain - Hippocampus
+GTEX-13N2G-0011-R5a-SM-5MR33	Brain - Caudate (basal ganglia)
+GTEX-13N2G-0011-R6b-SM-5MR3P	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13N2G-3126-SM-5IJGL	Brain - Cerebellum
+GTEX-13NYB-0011-R10a-SM-5KM43	Brain - Frontal Cortex (BA9)
+GTEX-13NYB-0011-R11a-SM-5KM3Q	Brain - Cerebellar Hemisphere
+GTEX-13NYB-0011-R1b-SM-5KM4F	Brain - Hippocampus
+GTEX-13NYB-0011-R5a-SM-5MR45	Brain - Caudate (basal ganglia)
+GTEX-13NYB-0011-R6b-SM-5MR51	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13NYB-3026-SM-5IJD7	Brain - Cortex
+GTEX-13NYB-3226-SM-5J2ND	Brain - Cerebellum
+GTEX-13NYC-2826-SM-5K7WR	Brain - Cortex
+GTEX-13NYS-0011-R10a-SM-5MR4S	Brain - Frontal Cortex (BA9)
+GTEX-13NYS-0011-R11b-SM-5MR4P	Brain - Cerebellar Hemisphere
+GTEX-13NYS-0011-R1b-SM-5MR55	Brain - Hippocampus
+GTEX-13NYS-0011-R5a-SM-5MR4D	Brain - Caudate (basal ganglia)
+GTEX-13NYS-0011-R6b-SM-5MR3R	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13NYS-3126-SM-5KLYV	Brain - Cortex
+GTEX-13NZ8-0011-R1b-SM-5KM3V	Brain - Hippocampus
+GTEX-13NZA-0011-R10b-SM-5KM54	Brain - Frontal Cortex (BA9)
+GTEX-13NZA-0011-R11b-SM-5KM4W	Brain - Cerebellar Hemisphere
+GTEX-13NZA-0011-R1b-SM-5LUAF	Brain - Hippocampus
+GTEX-13NZA-0011-R5b-SM-5KM4K	Brain - Caudate (basal ganglia)
+GTEX-13O3O-0011-R10a-SM-5LUA9	Brain - Frontal Cortex (BA9)
+GTEX-13O3O-0011-R11b-SM-5KM4G	Brain - Cerebellar Hemisphere
+GTEX-13O3O-0011-R1b-SM-5KM2K	Brain - Hippocampus
+GTEX-13O3O-0011-R5b-SM-5KM44	Brain - Caudate (basal ganglia)
+GTEX-13O3O-0011-R6b-SM-5P9GY	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13O3O-3026-SM-5KM42	Brain - Cerebellum
+GTEX-13O3O-3126-SM-5KM3H	Brain - Cortex
+GTEX-13O3Q-0011-R10b-SM-5KM39	Brain - Frontal Cortex (BA9)
+GTEX-13O3Q-0011-R11b-SM-5KM2W	Brain - Cerebellar Hemisphere
+GTEX-13O3Q-0011-R1b-SM-5KM3L	Brain - Hippocampus
+GTEX-13O3Q-0011-R5b-SM-5P9H4	Brain - Caudate (basal ganglia)
+GTEX-13O3Q-0011-R6a-SM-5KM2V	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13O3Q-2926-SM-5KM45	Brain - Cortex
+GTEX-13O3Q-3026-SM-5IJGD	Brain - Cerebellum
+GTEX-13OVH-0011-R11b-SM-5KM4X	Brain - Cerebellar Hemisphere
+GTEX-13OVH-0011-R5b-SM-5KM4L	Brain - Caudate (basal ganglia)
+GTEX-13OVH-0011-R6b-SM-5LUAX	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OVH-2926-SM-5IJFH	Brain - Cerebellum
+GTEX-13OVH-3026-SM-5MR4N	Brain - Cortex
+GTEX-13OVJ-0011-R10b-SM-5L3HT	Brain - Frontal Cortex (BA9)
+GTEX-13OVJ-0011-R11a-SM-5P9H8	Brain - Cerebellar Hemisphere
+GTEX-13OVJ-0011-R1b-SM-5L3I6	Brain - Hippocampus
+GTEX-13OVJ-0011-R5a-SM-5P9H7	Brain - Caudate (basal ganglia)
+GTEX-13OVJ-0011-R6b-SM-5L3GH	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OVJ-2726-SM-5IJG6	Brain - Cerebellum
+GTEX-13OVJ-2826-SM-5L3GW	Brain - Cortex
+GTEX-13OVL-0011-R10a-SM-5L3GS	Brain - Frontal Cortex (BA9)
+GTEX-13OVL-0011-R11b-SM-5L3G7	Brain - Cerebellar Hemisphere
+GTEX-13OVL-0011-R1a-SM-5L3H5	Brain - Hippocampus
+GTEX-13OVL-0011-R5b-SM-5L3FU	Brain - Caudate (basal ganglia)
+GTEX-13OVL-0011-R6a-SM-5L3G4	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OVL-3026-SM-5IJF1	Brain - Cerebellum
+GTEX-13OW5-0011-R11b-SM-5L3GG	Brain - Cerebellar Hemisphere
+GTEX-13OW5-0011-R1b-SM-5L3GE	Brain - Hippocampus
+GTEX-13OW5-0011-R5b-SM-5L3FR	Brain - Caudate (basal ganglia)
+GTEX-13OW5-0011-R6b-SM-5O9BW	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OW5-3126-SM-5MR3Y	Brain - Cerebellum
+GTEX-13OW6-0011-R10a-SM-5L3HE	Brain - Frontal Cortex (BA9)
+GTEX-13OW6-0011-R11a-SM-5L3H2	Brain - Cerebellar Hemisphere
+GTEX-13OW6-0011-R1a-SM-5L3HQ	Brain - Hippocampus
+GTEX-13OW6-0011-R5a-SM-5O9BK	Brain - Caudate (basal ganglia)
+GTEX-13OW6-0011-R6b-SM-5L3GR	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OW6-2926-SM-5KM29	Brain - Cerebellum
+GTEX-13OW6-3026-SM-5J2MI	Brain - Cortex
+GTEX-13OW7-0011-R10a-SM-5L3H3	Brain - Frontal Cortex (BA9)
+GTEX-13OW7-0011-R11a-SM-5O9DY	Brain - Cerebellar Hemisphere
+GTEX-13OW7-0011-R1b-SM-5L3HF	Brain - Hippocampus
+GTEX-13OW7-0011-R5b-SM-5O9DM	Brain - Caudate (basal ganglia)
+GTEX-13OW7-2926-SM-5MR3Z	Brain - Cerebellum
+GTEX-13OW7-3026-SM-5L3GY	Brain - Cortex
+GTEX-13OW8-0011-R10a-SM-5L3H6	Brain - Frontal Cortex (BA9)
+GTEX-13OW8-0011-R11a-SM-5L3GT	Brain - Cerebellar Hemisphere
+GTEX-13OW8-0011-R1a-SM-5L3HI	Brain - Hippocampus
+GTEX-13OW8-0011-R5b-SM-5L3FQ	Brain - Caudate (basal ganglia)
+GTEX-13OW8-0011-R6b-SM-5L3I3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OW8-2826-SM-5L3GC	Brain - Cortex
+GTEX-13OW8-2926-SM-5L3FV	Brain - Cerebellum
+GTEX-13PDP-0011-R1a-SM-5PNX5	Brain - Hippocampus
+GTEX-13PDP-0011-R6b-SM-5O9D5	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13PL6-0011-R5b-SM-5O9BI	Brain - Caudate (basal ganglia)
+GTEX-13PL6-0011-R6a-SM-5O9C5	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13PL6-3126-SM-5LUAR	Brain - Cortex
+GTEX-13PLJ-0011-R11b-SM-5O9BS	Brain - Cerebellar Hemisphere
+GTEX-13PLJ-0011-R5a-SM-5O9BG	Brain - Caudate (basal ganglia)
+GTEX-13PVQ-0011-R11a-SM-5O9DU	Brain - Cerebellar Hemisphere
+GTEX-13PVQ-0011-R5b-SM-5O9DI	Brain - Caudate (basal ganglia)
+GTEX-13PVQ-2926-SM-5L3HJ	Brain - Cerebellum
+GTEX-13PVQ-3026-SM-5SI93	Brain - Cortex
+GTEX-13QIC-0011-R10a-SM-5O9C7	Brain - Frontal Cortex (BA9)
+GTEX-13QIC-0011-R11b-SM-5O9BU	Brain - Cerebellar Hemisphere
+GTEX-13QIC-0011-R1a-SM-5O9CJ	Brain - Hippocampus
+GTEX-13QIC-2926-SM-5J2NF	Brain - Cortex
+GTEX-13QIC-3026-SM-5LU58	Brain - Cerebellum
+GTEX-13QJC-0011-R10a-SM-5SI63	Brain - Frontal Cortex (BA9)
+GTEX-13QJC-0011-R1b-SM-5S2UU	Brain - Hippocampus
+GTEX-13QJC-0011-R6a-SM-5S2VI	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13RTJ-0011-R10b-SM-5O9CW	Brain - Frontal Cortex (BA9)
+GTEX-13RTJ-0011-R11a-SM-5O9CK	Brain - Cerebellar Hemisphere
+GTEX-13RTJ-0011-R1a-SM-5O9D9	Brain - Hippocampus
+GTEX-13RTJ-0011-R5a-SM-5P9HR	Brain - Caudate (basal ganglia)
+GTEX-13RTJ-0011-R6a-SM-5SI74	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13RTJ-3126-SM-5S2Q4	Brain - Cerebellum
+GTEX-13RTL-0011-R1a-SM-5PNZ8	Brain - Hippocampus
+GTEX-13S7M-0011-R10b-SM-5PNZB	Brain - Frontal Cortex (BA9)
+GTEX-13S7M-0011-R11b-SM-5P9HU	Brain - Cerebellar Hemisphere
+GTEX-13S7M-0011-R1b-SM-5PNZE	Brain - Hippocampus
+GTEX-13S7M-0011-R5b-SM-5P9HS	Brain - Caudate (basal ganglia)
+GTEX-13S7M-0011-R6b-SM-5O9D8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13S7M-3026-SM-5S2QQ	Brain - Cerebellum
+GTEX-13S7M-3126-SM-5RQJQ	Brain - Cortex
+GTEX-13SLW-0011-R10a-SM-5S2UI	Brain - Frontal Cortex (BA9)
+GTEX-13SLW-0011-R11a-SM-5SI8Q	Brain - Cerebellar Hemisphere
+GTEX-13SLW-0011-R1a-SM-5S2W7	Brain - Hippocampus
+GTEX-13SLW-0011-R5b-SM-5SI6Z	Brain - Caudate (basal ganglia)
+GTEX-13SLW-0011-R6a-SM-5O9BH	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13SLX-0011-R10a-SM-5P9HV	Brain - Frontal Cortex (BA9)
+GTEX-13SLX-0011-R11b-SM-5O9C8	Brain - Cerebellar Hemisphere
+GTEX-13SLX-0011-R5a-SM-5O9BV	Brain - Caudate (basal ganglia)
+GTEX-13SLX-0011-R6a-SM-5PNX4	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13SLX-3126-SM-5S2Q5	Brain - Cortex
+GTEX-13SLX-3226-SM-5YYA6	Brain - Cerebellum
+GTEX-13VXU-0011-R11b-SM-5O9DJ	Brain - Cerebellar Hemisphere
+GTEX-13VXU-0011-R5a-SM-5O9D7	Brain - Caudate (basal ganglia)
+GTEX-13VXU-0011-R6a-SM-5SI71	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13VXU-2926-SM-5LU5C	Brain - Cortex
+GTEX-13VXU-3026-SM-5LU3K	Brain - Cerebellum
+GTEX-13X6I-0011-R10a-SM-5PNWI	Brain - Frontal Cortex (BA9)
+GTEX-13X6I-0011-R11a-SM-5P9HN	Brain - Cerebellar Hemisphere
+GTEX-13X6I-0011-R1b-SM-5PNZC	Brain - Hippocampus
+GTEX-13X6I-0011-R5a-SM-5PNWW	Brain - Caudate (basal ganglia)
+GTEX-13X6I-2926-SM-5Q5C3	Brain - Cerebellum
+GTEX-13X6J-0011-R10b-SM-5PNWA	Brain - Frontal Cortex (BA9)
+GTEX-13X6J-0011-R11a-SM-5P9HE	Brain - Cerebellar Hemisphere
+GTEX-13X6J-0011-R5b-SM-5PNWT	Brain - Caudate (basal ganglia)
+GTEX-13X6J-0011-R6a-SM-5PNUB	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13X6J-2926-SM-7EPGP	Brain - Cerebellum
+GTEX-13X6J-3026-SM-5Q5CU	Brain - Cortex
+GTEX-13X6K-0011-R10a-SM-5P9JR	Brain - Frontal Cortex (BA9)
+GTEX-13X6K-0011-R11a-SM-5P9F5	Brain - Cerebellar Hemisphere
+GTEX-13X6K-0011-R5b-SM-5PNUE	Brain - Caudate (basal ganglia)
+GTEX-13X6K-0011-R6a-SM-5P9K6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13X6K-2826-SM-5O9DS	Brain - Cerebellum
+GTEX-13X6K-2926-SM-5Q5D5	Brain - Cortex
+GTEX-1445S-0011-R10a-SM-5PNWB	Brain - Frontal Cortex (BA9)
+GTEX-1445S-0011-R5a-SM-5PNUS	Brain - Caudate (basal ganglia)
+GTEX-1445S-0011-R6b-SM-5PNUF	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1445S-3026-SM-5O9BR	Brain - Cortex
+GTEX-144FL-3026-SM-5O99C	Brain - Cortex
+GTEX-144GL-0011-R11b-SM-5P9F6	Brain - Cerebellar Hemisphere
+GTEX-144GL-0011-R1a-SM-5PNZ5	Brain - Hippocampus
+GTEX-144GL-0011-R5b-SM-5PNUJ	Brain - Caudate (basal ganglia)
+GTEX-144GL-0011-R6a-SM-5P9HW	Brain - Nucleus accumbens (basal ganglia)
+GTEX-144GL-2926-SM-5O99F	Brain - Cerebellum
+GTEX-144GL-3026-SM-5Q5CW	Brain - Cortex
+GTEX-144GO-0011-R1a-SM-5PNWO	Brain - Hippocampus
+GTEX-144GO-0011-R5a-SM-5PNUR	Brain - Caudate (basal ganglia)
+GTEX-144GO-0011-R6b-SM-5S2V7	Brain - Nucleus accumbens (basal ganglia)
+GTEX-145LS-0011-R10a-SM-5PNUQ	Brain - Frontal Cortex (BA9)
+GTEX-145LS-0011-R1b-SM-5PNUP	Brain - Hippocampus
+GTEX-145LS-0011-R5a-SM-5SI65	Brain - Caudate (basal ganglia)
+GTEX-145LS-0011-R6b-SM-5PNWL	Brain - Nucleus accumbens (basal ganglia)
+GTEX-145LS-3026-SM-5O99S	Brain - Cerebellum
+GTEX-145LS-3126-SM-5Q5BY	Brain - Cortex
+GTEX-145LU-0011-R10a-SM-5PNWJ	Brain - Frontal Cortex (BA9)
+GTEX-145LU-0011-R11b-SM-5P9JX	Brain - Cerebellar Hemisphere
+GTEX-145LU-0011-R1a-SM-5Q5CE	Brain - Hippocampus
+GTEX-145LU-0011-R6a-SM-5S2V6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-145LU-2626-SM-5LU9Z	Brain - Cerebellum
+GTEX-145MF-2726-SM-5O995	Brain - Cortex
+GTEX-145MF-2826-SM-7EPGU	Brain - Cerebellum
+GTEX-145MG-0011-R10a-SM-5PNWG	Brain - Frontal Cortex (BA9)
+GTEX-145MG-0011-R5b-SM-5S2VU	Brain - Caudate (basal ganglia)
+GTEX-145MG-3026-SM-5RQJA	Brain - Cortex
+GTEX-145MG-3126-SM-5Q5D3	Brain - Cerebellum
+GTEX-145MH-0011-R10b-SM-5PNUK	Brain - Frontal Cortex (BA9)
+GTEX-145MH-0011-R11a-SM-5P9HQ	Brain - Cerebellar Hemisphere
+GTEX-145MH-0011-R1b-SM-5PNWY	Brain - Hippocampus
+GTEX-145MH-0011-R5a-SM-5P9JT	Brain - Caudate (basal ganglia)
+GTEX-145MH-0011-R6a-SM-5PNZ7	Brain - Nucleus accumbens (basal ganglia)
+GTEX-145MH-2926-SM-5Q5D2	Brain - Cerebellum
+GTEX-145MH-3026-SM-5Q5DZ	Brain - Cortex
+GTEX-145MI-0011-R11a-SM-5P9JZ	Brain - Cerebellar Hemisphere
+GTEX-145MI-0011-R6a-SM-5PNZA	Brain - Nucleus accumbens (basal ganglia)
+GTEX-145MI-3126-SM-5Q5CF	Brain - Cerebellum
+GTEX-14753-0011-R10b-SM-5S2WE	Brain - Frontal Cortex (BA9)
+GTEX-14753-0011-R5a-SM-5S2VW	Brain - Caudate (basal ganglia)
+GTEX-1477Z-0011-R10b-SM-5S2RF	Brain - Frontal Cortex (BA9)
+GTEX-1477Z-0011-R5b-SM-5PNUO	Brain - Caudate (basal ganglia)
+GTEX-147F4-0011-R10b-SM-5S2WC	Brain - Frontal Cortex (BA9)
+GTEX-147F4-3026-SM-5Q5BJ	Brain - Cerebellum
+GTEX-147GR-0011-R10b-SM-5S2UM	Brain - Frontal Cortex (BA9)
+GTEX-147GR-0011-R6b-SM-5S2RO	Brain - Nucleus accumbens (basal ganglia)
+GTEX-147GR-3026-SM-5S2ML	Brain - Cortex
+GTEX-147GR-3126-SM-5S2PM	Brain - Cerebellum
+GTEX-14A5I-2826-SM-5SIBF	Brain - Cerebellum
+GTEX-14A5I-2926-SM-5Q5CQ	Brain - Cortex
+GTEX-14ABY-0011-R11a-SM-5SI7C	Brain - Cerebellar Hemisphere
+GTEX-14ABY-0011-R1a-SM-6EU2W	Brain - Hippocampus
+GTEX-14ABY-0011-R5b-SM-5SI7B	Brain - Caudate (basal ganglia)
+GTEX-14ABY-0011-R6a-SM-5PNWR	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14ABY-3026-SM-664NE	Brain - Cerebellum
+GTEX-14ASI-0011-R10b-SM-5S2VZ	Brain - Frontal Cortex (BA9)
+GTEX-14ASI-0011-R11b-SM-6AJBJ	Brain - Cerebellar Hemisphere
+GTEX-14ASI-0011-R1b-SM-5S2TY	Brain - Hippocampus
+GTEX-14ASI-0011-R5b-SM-6EU2M	Brain - Caudate (basal ganglia)
+GTEX-14ASI-0011-R6a-SM-5S2UZ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14ASI-2926-SM-5Q5DG	Brain - Cerebellum
+GTEX-14ASI-3026-SM-5S2PN	Brain - Cortex
+GTEX-14BIL-0011-R10a-SM-5SI75	Brain - Frontal Cortex (BA9)
+GTEX-14BIL-3026-SM-7EWD4	Brain - Cortex
+GTEX-14BIM-0011-R11b-SM-5S2RN	Brain - Cerebellar Hemisphere
+GTEX-14BIM-0011-R1a-SM-69LQI	Brain - Hippocampus
+GTEX-14BIM-0011-R5b-SM-5S2RM	Brain - Caudate (basal ganglia)
+GTEX-14BIM-0011-R6b-SM-5S2VB	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14BIM-3026-SM-7EWCY	Brain - Cortex
+GTEX-14BIM-3126-SM-5Q5C7	Brain - Cerebellum
+GTEX-14BIN-0011-R10a-SM-5S2UA	Brain - Frontal Cortex (BA9)
+GTEX-14BIN-0011-R11a-SM-5SI79	Brain - Cerebellar Hemisphere
+GTEX-14BIN-0011-R5b-SM-5SI78	Brain - Caudate (basal ganglia)
+GTEX-14BIN-0011-R6a-SM-5S2RH	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14BIN-3226-SM-62LDR	Brain - Cortex
+GTEX-14BIN-3326-SM-5Q5E6	Brain - Cerebellum
+GTEX-14BMV-0011-R5b-SM-62LFT	Brain - Caudate (basal ganglia)
+GTEX-14BMV-0011-R6b-SM-5YY9I	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14BMV-2926-SM-5TDEE	Brain - Cerebellum
+GTEX-14BMV-3026-SM-5S2PQ	Brain - Cortex
+GTEX-14C39-0011-R10b-SM-5YYBE	Brain - Frontal Cortex (BA9)
+GTEX-14C39-0011-R11b-SM-5YYAF	Brain - Cerebellar Hemisphere
+GTEX-14C39-0011-R5b-SM-5ZZV1	Brain - Caudate (basal ganglia)
+GTEX-14C39-0011-R6b-SM-5YYAZ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14C39-3026-SM-5S2QE	Brain - Cerebellum
+GTEX-14C39-3126-SM-5ZZW6	Brain - Cortex
+GTEX-14C5O-0011-R10a-SM-6872F	Brain - Frontal Cortex (BA9)
+GTEX-14C5O-0011-R11b-SM-6872H	Brain - Cerebellar Hemisphere
+GTEX-14C5O-0011-R1b-SM-6AJBW	Brain - Hippocampus
+GTEX-14C5O-0011-R6a-SM-5YYB6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14C5O-2926-SM-5RQI1	Brain - Cerebellum
+GTEX-14C5O-3026-SM-5YYB2	Brain - Cortex
+GTEX-14DAQ-0011-R11a-SM-664NO	Brain - Cerebellar Hemisphere
+GTEX-14DAQ-0011-R5b-SM-5YYAK	Brain - Caudate (basal ganglia)
+GTEX-14DAQ-3026-SM-5S2QZ	Brain - Cerebellum
+GTEX-14DAQ-3126-SM-62LDS	Brain - Cortex
+GTEX-14E6D-0011-R10a-SM-5YY9C	Brain - Frontal Cortex (BA9)
+GTEX-14E6D-0011-R11b-SM-664NP	Brain - Cerebellar Hemisphere
+GTEX-14E6D-0011-R1b-SM-5YYAW	Brain - Hippocampus
+GTEX-14E6D-0011-R5b-SM-69LQR	Brain - Caudate (basal ganglia)
+GTEX-14E6D-2926-SM-664OP	Brain - Cerebellum
+GTEX-14E7W-0011-R10a-SM-5YYAX	Brain - Frontal Cortex (BA9)
+GTEX-14E7W-0011-R11a-SM-5ZZVA	Brain - Cerebellar Hemisphere
+GTEX-14E7W-0011-R1b-SM-5YYAT	Brain - Hippocampus
+GTEX-14E7W-0011-R6b-SM-5ZZV3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14E7W-2926-SM-5S2R8	Brain - Cerebellum
+GTEX-14JFF-2826-SM-6871Q	Brain - Cerebellum
+GTEX-14JG1-0011-R11a-SM-62LEE	Brain - Cerebellar Hemisphere
+GTEX-14JG1-0011-R5a-SM-62LED	Brain - Caudate (basal ganglia)
+GTEX-14JG1-0011-R6b-SM-5YYAU	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14JG1-2926-SM-686ZK	Brain - Cerebellum
+GTEX-14JG1-3026-SM-5YYAA	Brain - Cortex
+GTEX-14JIY-0011-R10a-SM-6AJAO	Brain - Frontal Cortex (BA9)
+GTEX-14JIY-0011-R11b-SM-62LE8	Brain - Cerebellar Hemisphere
+GTEX-14JIY-0011-R1a-SM-68713	Brain - Hippocampus
+GTEX-14JIY-0011-R5b-SM-62LE7	Brain - Caudate (basal ganglia)
+GTEX-14JIY-0011-R6b-SM-68714	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14JIY-2326-SM-6AJAJ	Brain - Cerebellum
+GTEX-14JIY-2926-SM-69LPT	Brain - Cortex
+GTEX-14LLW-0011-R1a-SM-5ZZVD	Brain - Hippocampus
+GTEX-14LLW-0011-R5b-SM-5ZZU6	Brain - Caudate (basal ganglia)
+GTEX-14LZ3-0011-R10b-SM-6AJA9	Brain - Frontal Cortex (BA9)
+GTEX-14LZ3-0011-R1a-SM-69LP5	Brain - Hippocampus
+GTEX-14LZ3-0011-R5b-SM-5ZZV8	Brain - Caudate (basal ganglia)
+GTEX-14LZ3-0011-R6a-SM-686ZO	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14LZ3-3026-SM-5ZZVU	Brain - Cortex
+GTEX-14PJM-0011-R10a-SM-686ZP	Brain - Frontal Cortex (BA9)
+GTEX-14PJM-0011-R1a-SM-6EU2Z	Brain - Hippocampus
+GTEX-14PJM-0011-R6a-SM-6872G	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14PJM-3026-SM-6LLHM	Brain - Cerebellum
+GTEX-14PJM-3126-SM-6EU2R	Brain - Cortex
+GTEX-14PJO-0011-R10a-SM-686ZS	Brain - Frontal Cortex (BA9)
+GTEX-14PJO-0011-R1b-SM-6AJAK	Brain - Hippocampus
+GTEX-14PJO-0011-R5a-SM-6AJBZ	Brain - Caudate (basal ganglia)
+GTEX-14PJO-2926-SM-686ZI	Brain - Cerebellum
+GTEX-14PN4-0011-R10b-SM-69LP2	Brain - Frontal Cortex (BA9)
+GTEX-14PN4-0011-R11a-SM-686ZW	Brain - Cerebellar Hemisphere
+GTEX-14PN4-0011-R1b-SM-69LP8	Brain - Hippocampus
+GTEX-14PN4-0011-R5a-SM-686ZV	Brain - Caudate (basal ganglia)
+GTEX-14PN4-0011-R6b-SM-69LQU	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14PN4-3026-SM-664O4	Brain - Cerebellum
+GTEX-14PQA-0011-R10a-SM-6AJAA	Brain - Frontal Cortex (BA9)
+GTEX-14PQA-0011-R1b-SM-6EU1G	Brain - Hippocampus
+GTEX-14PQA-0011-R5b-SM-6AJC2	Brain - Caudate (basal ganglia)
+GTEX-14PQA-0011-R6b-SM-6AJAM	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15CHQ-0011-R10b-SM-6AJBV	Brain - Frontal Cortex (BA9)
+GTEX-15CHQ-0011-R11b-SM-686ZZ	Brain - Cerebellar Hemisphere
+GTEX-15CHQ-0011-R1a-SM-6EU31	Brain - Hippocampus
+GTEX-15CHQ-0011-R5b-SM-6AJAN	Brain - Caudate (basal ganglia)
+GTEX-15CHQ-0011-R6b-SM-69LOX	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15DCD-0011-R10b-SM-6LPII	Brain - Frontal Cortex (BA9)
+GTEX-15DCD-0011-R11a-SM-6AJAF	Brain - Cerebellar Hemisphere
+GTEX-15DCD-0011-R1b-SM-6LPIJ	Brain - Hippocampus
+GTEX-15DCD-0011-R5a-SM-69LPC	Brain - Caudate (basal ganglia)
+GTEX-15DCD-0011-R6b-SM-6M46L	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15DDE-0011-R10a-SM-7KULA	Brain - Frontal Cortex (BA9)
+GTEX-15DDE-0011-R5b-SM-7KULJ	Brain - Caudate (basal ganglia)
+GTEX-15DYW-0011-R11a-SM-6LPIT	Brain - Cerebellar Hemisphere
+GTEX-15DYW-0011-R5a-SM-6M46W	Brain - Caudate (basal ganglia)
+GTEX-15DYW-0011-R6b-SM-6PALA	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15DYW-3026-SM-7KFRM	Brain - Cerebellum
+GTEX-15EO6-0011-R11b-SM-6M47M	Brain - Cerebellar Hemisphere
+GTEX-15EO6-0011-R5b-SM-7KUDZ	Brain - Caudate (basal ganglia)
+GTEX-15EO6-0011-R6a-SM-7KULK	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15EO6-2926-SM-6M48D	Brain - Cerebellum
+GTEX-15EO6-3026-SM-7KUMA	Brain - Cortex
+GTEX-15ER7-0011-R11a-SM-6LPIL	Brain - Cerebellar Hemisphere
+GTEX-15ER7-0011-R1b-SM-7KUE1	Brain - Hippocampus
+GTEX-15ER7-0011-R5b-SM-6M46T	Brain - Caudate (basal ganglia)
+GTEX-15ER7-0011-R6a-SM-6M46M	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15ER7-3026-SM-6M47W	Brain - Cerebellum
+GTEX-15ER7-3126-SM-7KUGH	Brain - Cortex
+GTEX-15G19-0011-R10b-SM-7KUG4	Brain - Frontal Cortex (BA9)
+GTEX-15G19-0011-R11b-SM-6LPIH	Brain - Cerebellar Hemisphere
+GTEX-15G19-0011-R5b-SM-6M46P	Brain - Caudate (basal ganglia)
+GTEX-15G19-0011-R6b-SM-7KUM3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15G19-2826-SM-6M48K	Brain - Cerebellum
+GTEX-15G19-2926-SM-7KUFL	Brain - Cortex
+GTEX-15RJE-0011-R6a-SM-7DHL8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15RJE-3026-SM-7KUM1	Brain - Cortex
+GTEX-15SHU-0011-R5a-SM-7938Q	Brain - Caudate (basal ganglia)
+GTEX-15SHU-3026-SM-6LPIB	Brain - Cerebellum
+GTEX-15SHU-3126-SM-6M46H	Brain - Cortex
+GTEX-15UF6-3026-SM-7KUKL	Brain - Cortex
+GTEX-16GPK-0011-R10b-SM-7MKFG	Brain - Frontal Cortex (BA9)
+GTEX-16GPK-0011-R11b-SM-7MKFF	Brain - Cerebellar Hemisphere
+GTEX-16GPK-0011-R1b-SM-7EWDH	Brain - Hippocampus
+GTEX-16GPK-3026-SM-79ON9	Brain - Cortex
+GTEX-16NPV-0011-R5a-SM-7EPGK	Brain - Caudate (basal ganglia)
+GTEX-16XZZ-0011-R10b-SM-7LT91	Brain - Frontal Cortex (BA9)
+GTEX-16XZZ-0011-R11a-SM-7EPI3	Brain - Cerebellar Hemisphere
+GTEX-16XZZ-0011-R1a-SM-7LTAH	Brain - Hippocampus
+GTEX-16XZZ-0011-R6a-SM-7IGNE	Brain - Nucleus accumbens (basal ganglia)
+GTEX-16XZZ-2926-SM-6LPK4	Brain - Cerebellum
+GTEX-16XZZ-3026-SM-79OMJ	Brain - Cortex
+GTEX-16YQH-0011-R10b-SM-7LT8U	Brain - Frontal Cortex (BA9)
+GTEX-16YQH-0011-R11b-SM-7LT98	Brain - Cerebellar Hemisphere
+GTEX-16YQH-0011-R1a-SM-7LT8R	Brain - Hippocampus
+GTEX-16YQH-0011-R5b-SM-7938U	Brain - Caudate (basal ganglia)
+GTEX-16YQH-0011-R6b-SM-7938T	Brain - Nucleus accumbens (basal ganglia)
+GTEX-16YQH-2926-SM-6LPJE	Brain - Cerebellum
+GTEX-16YQH-3026-SM-79OMM	Brain - Cortex
+GTEX-16Z82-0011-R10a-SM-79OJX	Brain - Frontal Cortex (BA9)
+GTEX-16Z82-0011-R11a-SM-79OKJ	Brain - Cerebellar Hemisphere
+GTEX-16Z82-0011-R1b-SM-7EPHZ	Brain - Hippocampus
+GTEX-16Z82-0011-R5a-SM-7EPGB	Brain - Caudate (basal ganglia)
+GTEX-16Z82-0011-R6a-SM-7IGLV	Brain - Nucleus accumbens (basal ganglia)
+GTEX-16Z82-2926-SM-6LPJJ	Brain - Cerebellum
+GTEX-16Z82-3026-SM-79ON3	Brain - Cortex
+GTEX-17EVP-0011-R10a-SM-7IGLP	Brain - Frontal Cortex (BA9)
+GTEX-17EVP-0011-R11a-SM-7EWDL	Brain - Cerebellar Hemisphere
+GTEX-17EVP-0011-R1a-SM-7DHLA	Brain - Hippocampus
+GTEX-17EVP-0011-R5b-SM-7DHKW	Brain - Caudate (basal ganglia)
+GTEX-17EVP-0011-R6b-SM-7LT99	Brain - Nucleus accumbens (basal ganglia)
+GTEX-17EVP-2926-SM-793BU	Brain - Cerebellum
+GTEX-17EVP-3026-SM-7IGQL	Brain - Cortex
+GTEX-17EVQ-0011-R11a-SM-7LT9C	Brain - Cerebellar Hemisphere
+GTEX-17EVQ-0011-R1a-SM-7189S	Brain - Hippocampus
+GTEX-17EVQ-0011-R5a-SM-7LT92	Brain - Caudate (basal ganglia)
+GTEX-17EVQ-0011-R6a-SM-7189U	Brain - Nucleus accumbens (basal ganglia)
+GTEX-17EVQ-2726-SM-7EWDT	Brain - Cerebellum
+GTEX-17EVQ-2826-SM-7IGQK	Brain - Cortex
+GTEX-17F97-0011-R10b-SM-793BB	Brain - Frontal Cortex (BA9)
+GTEX-17F97-0011-R11b-SM-7KFRQ	Brain - Cerebellar Hemisphere
+GTEX-17F97-0011-R1b-SM-7IGM9	Brain - Hippocampus
+GTEX-17F97-0011-R5a-SM-7LG4Z	Brain - Caudate (basal ganglia)
+GTEX-17F97-0011-R6a-SM-7EPGS	Brain - Nucleus accumbens (basal ganglia)
+GTEX-17F97-2926-SM-7DUEQ	Brain - Cerebellum
+GTEX-17F97-3026-SM-79OKC	Brain - Cortex
+GTEX-17HG3-0011-R10b-SM-7LT97	Brain - Frontal Cortex (BA9)
+GTEX-17HG3-0011-R11b-SM-7KFT4	Brain - Cerebellar Hemisphere
+GTEX-17HG3-0011-R1a-SM-7LG6H	Brain - Hippocampus
+GTEX-17HG3-0011-R5a-SM-7DUEW	Brain - Caudate (basal ganglia)
+GTEX-17HG3-0011-R6b-SM-79OK8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-17HG3-2826-SM-7EPGO	Brain - Cerebellum
+GTEX-17HG3-2926-SM-79ON8	Brain - Cortex
+GTEX-17HHY-0011-R1a-SM-7189V	Brain - Hippocampus
+GTEX-17HHY-0011-R5b-SM-79OMZ	Brain - Caudate (basal ganglia)
+GTEX-17HHY-0011-R6b-SM-7189Z	Brain - Nucleus accumbens (basal ganglia)
+GTEX-17HHY-2926-SM-79OJW	Brain - Cerebellum
+GTEX-17HHY-3026-SM-79OKP	Brain - Cortex
+GTEX-17HII-0011-R10a-SM-79OMY	Brain - Frontal Cortex (BA9)
+GTEX-17HII-0011-R11b-SM-7KFSX	Brain - Cerebellar Hemisphere
+GTEX-17HII-0011-R5a-SM-7LG51	Brain - Caudate (basal ganglia)
+GTEX-17HII-2926-SM-79OMK	Brain - Cerebellum
+GTEX-17HII-3026-SM-7EWFM	Brain - Cortex
+GTEX-17JCI-0011-R10b-SM-718A2	Brain - Frontal Cortex (BA9)
+GTEX-17JCI-0011-R11a-SM-7189Y	Brain - Cerebellar Hemisphere
+GTEX-17JCI-0011-R1b-SM-718A3	Brain - Hippocampus
+GTEX-17JCI-0011-R6a-SM-72D6D	Brain - Nucleus accumbens (basal ganglia)
+GTEX-17JCI-3026-SM-7EWDR	Brain - Cerebellum
+GTEX-17JCI-3126-SM-7LTA2	Brain - Cortex
+GTEX-17MF6-0011-R1a-SM-72D6O	Brain - Hippocampus
+GTEX-17MF6-0011-R5a-SM-731BA	Brain - Caudate (basal ganglia)
+GTEX-17MF6-0011-R6b-SM-7LG6G	Brain - Nucleus accumbens (basal ganglia)
+GTEX-17MF6-2926-SM-7LTAW	Brain - Cortex
+GTEX-183WM-0011-R11a-SM-718A5	Brain - Cerebellar Hemisphere
+GTEX-183WM-0011-R1a-SM-718A8	Brain - Hippocampus
+GTEX-183WM-0011-R5a-SM-718A4	Brain - Caudate (basal ganglia)
+GTEX-183WM-0011-R6b-SM-72D66	Brain - Nucleus accumbens (basal ganglia)
+GTEX-183WM-2726-SM-7KFRF	Brain - Cerebellum
+GTEX-183WM-2826-SM-731C2	Brain - Cortex
+GTEX-18464-0011-R10a-SM-72D6X	Brain - Frontal Cortex (BA9)
+GTEX-18464-0011-R11a-SM-72D76	Brain - Cerebellar Hemisphere
+GTEX-18464-0011-R5b-SM-718A6	Brain - Caudate (basal ganglia)
+GTEX-18464-0011-R6a-SM-731CA	Brain - Nucleus accumbens (basal ganglia)
+GTEX-18465-0011-R11a-SM-72D78	Brain - Cerebellar Hemisphere
+GTEX-18465-0011-R5a-SM-72D5J	Brain - Caudate (basal ganglia)
+GTEX-18465-0011-R6a-SM-7LG6M	Brain - Nucleus accumbens (basal ganglia)
+GTEX-18465-2926-SM-7KFSE	Brain - Cerebellum
+GTEX-18465-3026-SM-7LG6Y	Brain - Cortex
+GTEX-18A6Q-0011-R10b-SM-72D7A	Brain - Frontal Cortex (BA9)
+GTEX-18A6Q-0011-R11a-SM-72D6H	Brain - Cerebellar Hemisphere
+GTEX-18A6Q-0011-R1b-SM-731DI	Brain - Hippocampus
+GTEX-18A6Q-0011-R6a-SM-7LG6R	Brain - Nucleus accumbens (basal ganglia)
+GTEX-18A6Q-2826-SM-7LTAO	Brain - Cerebellum
+GTEX-18A6Q-2926-SM-718AR	Brain - Cortex
+GTEX-1A3MX-0011-R11b-SM-7DUGP	Brain - Cerebellar Hemisphere
+GTEX-1A3MX-0011-R5a-SM-79OM5	Brain - Caudate (basal ganglia)
+GTEX-1A3MX-2926-SM-718B7	Brain - Cerebellum
+GTEX-1A3MX-3026-SM-731BF	Brain - Cortex
+GTEX-1A8G6-0011-R5b-SM-7IGQG	Brain - Caudate (basal ganglia)
+GTEX-1A8G6-2926-SM-731CK	Brain - Cortex
+GTEX-1A8G6-3126-SM-731D8	Brain - Cerebellum
+GTEX-1A8G7-3026-SM-73KTT	Brain - Cerebellum
+GTEX-1A8G7-3126-SM-7IGP7	Brain - Cortex
+GTEX-1AX9I-0011-R11b-SM-7DHN4	Brain - Cerebellar Hemisphere
+GTEX-1AX9I-0011-R5b-SM-793DI	Brain - Caudate (basal ganglia)
+GTEX-1AX9I-3026-SM-73KUH	Brain - Cortex
+GTEX-1B8L1-0011-R11b-SM-793DJ	Brain - Cerebellar Hemisphere
+GTEX-1B8L1-0011-R5a-SM-7DHN5	Brain - Caudate (basal ganglia)
+GTEX-1B8L1-3026-SM-7EPHK	Brain - Cortex
+GTEX-1B8SF-0011-R11a-SM-79OOP	Brain - Cerebellar Hemisphere
+GTEX-1B8SF-0011-R5a-SM-79OOO	Brain - Caudate (basal ganglia)
+GTEX-1B8SF-3026-SM-731DX	Brain - Cerebellum
+GTEX-1B8SF-3126-SM-73KU1	Brain - Cortex
+GTEX-1B8SG-1726-SM-73KXK	Brain - Cortex
+GTEX-1B8SG-1926-SM-73KUB	Brain - Cerebellum
+GTEX-1B933-0011-R6b-SM-79OOQ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1B933-3026-SM-731DB	Brain - Cerebellum
+GTEX-1B996-0011-R6b-SM-793AQ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1BAJH-0011-R11b-SM-7IGLM	Brain - Cerebellar Hemisphere
+GTEX-1C64N-0011-R6a-SM-7IGO9	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1C64N-3126-SM-79OO3	Brain - Cerebellum
+GTEX-1C6VQ-3026-SM-7IGPU	Brain - Cortex
+GTEX-1C6VR-3026-SM-7IGLW	Brain - Cerebellum
+GTEX-1C6VS-3026-SM-79OLA	Brain - Cortex
+GTEX-1C6WA-3326-SM-7MKGN	Brain - Cerebellum
+GTEX-1CAV2-2726-SM-7IGNN	Brain - Cortex
+GTEX-1CB4G-2926-SM-7MKFQ	Brain - Cerebellum
+GTEX-1CB4H-3026-SM-79OLX	Brain - Cerebellum
+GTEX-1CB4H-3126-SM-7IGN4	Brain - Cortex
+GTEX-1E1VI-2926-SM-7IGLT	Brain - Cerebellum
+GTEX-1E2YA-3026-SM-7IGO7	Brain - Cortex
+GTEX-1EKGG-2926-SM-7EPIH	Brain - Cortex
+GTEX-1EU9M-2926-SM-793DF	Brain - Cerebellum
+GTEX-1EWIQ-3026-SM-7IGOJ	Brain - Cerebellum
+GTEX-N7MS-0011-R10A-SM-2HMJK	Brain - Frontal Cortex (BA9)
+GTEX-N7MS-0011-R11A-SM-2HMJS	Brain - Cerebellar Hemisphere
+GTEX-N7MS-0011-R1a-SM-2HMJG	Brain - Hippocampus
+GTEX-N7MS-0011-R5a-SM-2HMK8	Brain - Caudate (basal ganglia)
+GTEX-N7MS-0011-R6a-SM-2HMJ4	Brain - Nucleus accumbens (basal ganglia)
+GTEX-N7MS-2526-SM-2D7W3	Brain - Cerebellum
+GTEX-N7MT-0011-R10A-SM-2I3E1	Brain - Frontal Cortex (BA9)
+GTEX-N7MT-0011-R1a-SM-5SI7S	Brain - Hippocampus
+GTEX-N7MT-0011-R5a-SM-2I3G6	Brain - Caudate (basal ganglia)
+GTEX-N7MT-0011-R6a-SM-2I3G3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-N7MT-1226-SM-2D7W4	Brain - Cerebellum
+GTEX-NL3H-0011-R10A-SM-2I3E9	Brain - Frontal Cortex (BA9)
+GTEX-NL3H-0011-R1a-SM-48TDJ	Brain - Hippocampus
+GTEX-NL3H-0011-R5a-SM-2I3GB	Brain - Caudate (basal ganglia)
+GTEX-NL3H-0011-R6a-SM-2I3G8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-NL4W-0011-R10A-SM-2I3DY	Brain - Frontal Cortex (BA9)
+GTEX-NL4W-0011-R11A-SM-2I3DW	Brain - Cerebellar Hemisphere
+GTEX-NL4W-0011-R5a-SM-2I3GD	Brain - Caudate (basal ganglia)
+GTEX-NL4W-0011-R6a-SM-2I3GA	Brain - Nucleus accumbens (basal ganglia)
+GTEX-NPJ7-0011-R10A-SM-2I3E5	Brain - Frontal Cortex (BA9)
+GTEX-NPJ7-0011-R11A-SM-2I3E8	Brain - Cerebellar Hemisphere
+GTEX-NPJ7-0011-R1a-SM-3GACT	Brain - Hippocampus
+GTEX-NPJ7-0011-R5a-SM-33HBK	Brain - Caudate (basal ganglia)
+GTEX-NPJ7-0011-R6a-SM-2I3G7	Brain - Nucleus accumbens (basal ganglia)
+GTEX-NPJ7-2726-SM-2I3FT	Brain - Cortex
+GTEX-NPJ7-2826-SM-2I3FU	Brain - Cerebellum
+GTEX-NPJ8-0011-R10A-SM-2YUMO	Brain - Frontal Cortex (BA9)
+GTEX-NPJ8-0011-R1a-SM-33HCB	Brain - Hippocampus
+GTEX-NPJ8-0011-R5a-SM-2HMJY	Brain - Caudate (basal ganglia)
+GTEX-NPJ8-0011-R6a-SM-2HMKB	Brain - Nucleus accumbens (basal ganglia)
+GTEX-NPJ8-1526-SM-2D7VU	Brain - Cortex
+GTEX-NPJ8-2626-SM-2D7W2	Brain - Cerebellum
+GTEX-OHPN-0011-R11A-SM-2I5FM	Brain - Cerebellar Hemisphere
+GTEX-OHPN-0011-R1A-SM-2I5GB	Brain - Hippocampus
+GTEX-OHPN-0011-R6A-SM-2I5FH	Brain - Nucleus accumbens (basal ganglia)
+GTEX-OHPN-2626-SM-2I5H1	Brain - Cerebellum
+GTEX-OXRN-0011-R10A-SM-2I5GC	Brain - Frontal Cortex (BA9)
+GTEX-OXRN-0011-R5A-SM-2I5EF	Brain - Caudate (basal ganglia)
+GTEX-OXRN-2426-SM-2I5EQ	Brain - Cortex
+GTEX-OXRO-0011-R10A-SM-2I5EH	Brain - Frontal Cortex (BA9)
+GTEX-OXRO-0011-R5A-SM-2I5EG	Brain - Caudate (basal ganglia)
+GTEX-P44H-0011-R10A-SM-2XCEK	Brain - Frontal Cortex (BA9)
+GTEX-P44H-0011-R11A-SM-2XCER	Brain - Cerebellar Hemisphere
+GTEX-P44H-0011-R1A-SM-3NM8J	Brain - Hippocampus
+GTEX-P44H-0011-R5A-SM-2XCEX	Brain - Caudate (basal ganglia)
+GTEX-P44H-2426-SM-2XCEJ	Brain - Cerebellum
+GTEX-PVOW-0011-R1A-SM-32PL6	Brain - Hippocampus
+GTEX-PVOW-0011-R5A-SM-32PL7	Brain - Caudate (basal ganglia)
+GTEX-PVOW-2526-SM-2XCF7	Brain - Cortex
+GTEX-PVOW-2626-SM-32PL8	Brain - Cerebellum
+GTEX-PWO3-0011-R1A-SM-2I5EW	Brain - Hippocampus
+GTEX-PWO3-0011-R5A-SM-2I5EZ	Brain - Caudate (basal ganglia)
+GTEX-PWO3-0011-R6A-SM-2I5F3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-PWO3-0926-SM-2I5EY	Brain - Cortex
+GTEX-PWO3-1026-SM-2I5F2	Brain - Cerebellum
+GTEX-Q2AG-0011-R10A-SM-2HMLA	Brain - Frontal Cortex (BA9)
+GTEX-Q2AG-0011-R11A-SM-2HMKZ	Brain - Cerebellar Hemisphere
+GTEX-Q2AG-0011-R1A-SM-2HMJI	Brain - Hippocampus
+GTEX-Q2AG-0011-R5A-SM-2HMJH	Brain - Caudate (basal ganglia)
+GTEX-Q2AG-0011-R6A-SM-2HML7	Brain - Nucleus accumbens (basal ganglia)
+GTEX-Q2AG-2826-SM-2HMJQ	Brain - Cerebellum
+GTEX-Q2AG-2926-SM-2HMJ3	Brain - Cortex
+GTEX-QDT8-0011-R10A-SM-32PKG	Brain - Frontal Cortex (BA9)
+GTEX-QDT8-0011-R11A-SM-32PKD	Brain - Cerebellar Hemisphere
+GTEX-QDT8-0011-R1A-SM-32PKS	Brain - Hippocampus
+GTEX-QDT8-0011-R5A-SM-32PKN	Brain - Caudate (basal ganglia)
+GTEX-QDT8-0011-R6A-SM-32PKI	Brain - Nucleus accumbens (basal ganglia)
+GTEX-QDT8-2926-SM-32PKC	Brain - Cortex
+GTEX-QDT8-3026-SM-32PKB	Brain - Cerebellum
+GTEX-QMR6-0011-R10A-SM-32PKO	Brain - Frontal Cortex (BA9)
+GTEX-QMR6-0011-R11A-SM-32PKK	Brain - Cerebellar Hemisphere
+GTEX-QMR6-0011-R1A-SM-32PKW	Brain - Hippocampus
+GTEX-QMR6-0011-R5A-SM-32PKT	Brain - Caudate (basal ganglia)
+GTEX-QMR6-0011-R6A-SM-32PKP	Brain - Nucleus accumbens (basal ganglia)
+GTEX-QMR6-1326-SM-32PLB	Brain - Cerebellum
+GTEX-QMR6-1426-SM-32PLA	Brain - Cortex
+GTEX-QVJO-0011-R10A-SM-2S1QJ	Brain - Frontal Cortex (BA9)
+GTEX-QVJO-0011-R1A-SM-2S1QI	Brain - Hippocampus
+GTEX-QVJO-0011-R5A-SM-2S1QM	Brain - Caudate (basal ganglia)
+GTEX-QVJO-0011-R6A-SM-2S1QN	Brain - Nucleus accumbens (basal ganglia)
+GTEX-QVJO-1325-SM-2S1QX	Brain - Cerebellum
+GTEX-QVJO-1426-SM-2S1QY	Brain - Cortex
+GTEX-QVUS-0011-R10A-SM-3GIK3	Brain - Frontal Cortex (BA9)
+GTEX-QVUS-0011-R1A-SM-3GAD2	Brain - Hippocampus
+GTEX-QVUS-0011-R6A-SM-3GACX	Brain - Nucleus accumbens (basal ganglia)
+GTEX-QVUS-2826-SM-3GADB	Brain - Cortex
+GTEX-QVUS-2926-SM-3GIJB	Brain - Cerebellum
+GTEX-R55E-0011-R11A-SM-2TC6I	Brain - Cerebellar Hemisphere
+GTEX-R55E-0011-R1A-SM-2TC6N	Brain - Hippocampus
+GTEX-R55E-0011-R5A-SM-2TC5N	Brain - Caudate (basal ganglia)
+GTEX-R55E-0011-R6A-SM-2TC5T	Brain - Nucleus accumbens (basal ganglia)
+GTEX-R55E-2526-SM-2TC6H	Brain - Cerebellum
+GTEX-RNOR-0011-R1A-SM-5SI8F	Brain - Hippocampus
+GTEX-RNOR-2226-SM-2TF5O	Brain - Cerebellum
+GTEX-RNOR-2326-SM-2TF4I	Brain - Cortex
+GTEX-RU72-0011-R11A-SM-5SI8G	Brain - Cerebellar Hemisphere
+GTEX-RU72-0011-R5A-SM-2TF6U	Brain - Caudate (basal ganglia)
+GTEX-RU72-0011-R6A-SM-2TF71	Brain - Nucleus accumbens (basal ganglia)
+GTEX-RU72-2926-SM-2TF66	Brain - Cerebellum
+GTEX-RU72-3026-SM-5SI7Y	Brain - Cortex
+GTEX-RVPV-0011-R11A-SM-2TF6F	Brain - Cerebellar Hemisphere
+GTEX-RVPV-0011-R5A-SM-2TF69	Brain - Caudate (basal ganglia)
+GTEX-S7PM-0011-R5A-SM-3NM8G	Brain - Caudate (basal ganglia)
+GTEX-S7PM-0011-R6A-SM-3NM8F	Brain - Nucleus accumbens (basal ganglia)
+GTEX-S7SE-0011-R10A-SM-2XCDF	Brain - Frontal Cortex (BA9)
+GTEX-S7SE-0011-R11A-SM-2XCDD	Brain - Cerebellar Hemisphere
+GTEX-S7SE-0011-R1A-SM-2XCDE	Brain - Hippocampus
+GTEX-S7SE-0011-R5A-SM-2XCDA	Brain - Caudate (basal ganglia)
+GTEX-S7SE-0011-R6A-SM-2XCD9	Brain - Nucleus accumbens (basal ganglia)
+GTEX-S7SE-2526-SM-2XCDL	Brain - Cerebellum
+GTEX-T2IS-0011-R11A-SM-32QPC	Brain - Cerebellar Hemisphere
+GTEX-T2IS-0011-R5A-SM-32QP4	Brain - Caudate (basal ganglia)
+GTEX-T2IS-0011-R6A-SM-32QP2	Brain - Nucleus accumbens (basal ganglia)
+GTEX-T2IS-2926-SM-32QPO	Brain - Cerebellum
+GTEX-T2IS-3026-SM-32QPM	Brain - Cortex
+GTEX-T5JC-0011-R10A-SM-32PM2	Brain - Frontal Cortex (BA9)
+GTEX-T5JC-0011-R11A-SM-32PMB	Brain - Cerebellar Hemisphere
+GTEX-T5JC-0011-R1A-SM-32PM6	Brain - Hippocampus
+GTEX-T5JC-0011-R5A-SM-32PLK	Brain - Caudate (basal ganglia)
+GTEX-T5JC-0011-R6A-SM-5SI89	Brain - Nucleus accumbens (basal ganglia)
+GTEX-T5JC-2326-SM-32PMR	Brain - Cerebellum
+GTEX-T5JC-2426-SM-3NMDB	Brain - Cortex
+GTEX-T6MN-0011-R10A-SM-32QP7	Brain - Frontal Cortex (BA9)
+GTEX-T6MN-0011-R11A-SM-32QOX	Brain - Cerebellar Hemisphere
+GTEX-T6MN-0011-R1A-SM-32QOY	Brain - Hippocampus
+GTEX-T6MN-0011-R5A-SM-32QPD	Brain - Caudate (basal ganglia)
+GTEX-T6MN-0011-R6A-SM-32QP8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-T6MN-2526-SM-32PMN	Brain - Cerebellum
+GTEX-T6MN-2626-SM-32PMQ	Brain - Cortex
+GTEX-TSE9-0011-R10A-SM-3DB7O	Brain - Frontal Cortex (BA9)
+GTEX-TSE9-0011-R11A-SM-3DB7N	Brain - Cerebellar Hemisphere
+GTEX-TSE9-0011-R1A-SM-3DB7E	Brain - Hippocampus
+GTEX-TSE9-0011-R5A-SM-3DB7J	Brain - Caudate (basal ganglia)
+GTEX-TSE9-0011-R6A-SM-3DB7L	Brain - Nucleus accumbens (basal ganglia)
+GTEX-TSE9-2926-SM-3DB77	Brain - Cerebellum
+GTEX-TSE9-3026-SM-3DB76	Brain - Cortex
+GTEX-UTHO-0011-R11A-SM-3GIJE	Brain - Cerebellar Hemisphere
+GTEX-UTHO-0011-R1A-SM-3GIJO	Brain - Hippocampus
+GTEX-UTHO-0011-R5A-SM-3GIJD	Brain - Caudate (basal ganglia)
+GTEX-UTHO-0011-R6A-SM-3GIJW	Brain - Nucleus accumbens (basal ganglia)
+GTEX-UTHO-2926-SM-3P5Z9	Brain - Cerebellum
+GTEX-UTHO-3026-SM-3GAFB	Brain - Cortex
+GTEX-WHSE-0011-R11A-SM-3P5YY	Brain - Cerebellar Hemisphere
+GTEX-WHSE-0011-R1A-SM-3P5ZK	Brain - Hippocampus
+GTEX-WHSE-0011-R5A-SM-3P5ZO	Brain - Caudate (basal ganglia)
+GTEX-WHSE-0011-R6A-SM-3P5ZP	Brain - Nucleus accumbens (basal ganglia)
+GTEX-WHSE-2926-SM-3NMBG	Brain - Cerebellum
+GTEX-WHSE-3026-SM-3P5ZH	Brain - Cortex
+GTEX-WL46-0011-R10A-SM-3MJFQ	Brain - Frontal Cortex (BA9)
+GTEX-WL46-0011-R11A-SM-3MJFT	Brain - Cerebellar Hemisphere
+GTEX-WL46-0011-R1A-SM-3LK6M	Brain - Hippocampus
+GTEX-WL46-0011-R5A-SM-3LK6V	Brain - Caudate (basal ganglia)
+GTEX-WL46-0011-R6A-SM-3LK6X	Brain - Nucleus accumbens (basal ganglia)
+GTEX-WL46-2826-SM-3LK81	Brain - Cerebellum
+GTEX-WL46-2926-SM-3LK82	Brain - Cortex
+GTEX-WVLH-0011-R10A-SM-3MJFM	Brain - Frontal Cortex (BA9)
+GTEX-WVLH-0011-R11A-SM-3MJFO	Brain - Cerebellar Hemisphere
+GTEX-WVLH-0011-R1A-SM-4MVOK	Brain - Hippocampus
+GTEX-WVLH-0011-R5A-SM-3MJFW	Brain - Caudate (basal ganglia)
+GTEX-WVLH-0011-R6A-SM-3MJFZ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-WVLH-2926-SM-3MJG5	Brain - Cerebellum
+GTEX-WVLH-3026-SM-3MJG9	Brain - Cortex
+GTEX-WWYW-0011-R10A-SM-3NB35	Brain - Frontal Cortex (BA9)
+GTEX-WWYW-0011-R11A-SM-3NB38	Brain - Cerebellar Hemisphere
+GTEX-WWYW-0011-R1A-SM-3TW8G	Brain - Hippocampus
+GTEX-WWYW-0011-R5A-SM-3NB3E	Brain - Caudate (basal ganglia)
+GTEX-WWYW-0011-R6A-SM-3NB3G	Brain - Nucleus accumbens (basal ganglia)
+GTEX-WWYW-3026-SM-3NB36	Brain - Cerebellum
+GTEX-WWYW-3126-SM-3NB39	Brain - Cortex
+GTEX-WZTO-0011-R11A-SM-4E3K9	Brain - Cerebellar Hemisphere
+GTEX-WZTO-0011-R1B-SM-3NMAR	Brain - Hippocampus
+GTEX-WZTO-0011-R5B-SM-3NMC5	Brain - Caudate (basal ganglia)
+GTEX-WZTO-0011-R6B-SM-4E3J6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-WZTO-2826-SM-3NM8P	Brain - Cerebellum
+GTEX-WZTO-2926-SM-3NM9I	Brain - Cortex
+GTEX-X261-0011-R10B-SM-4E3JT	Brain - Frontal Cortex (BA9)
+GTEX-X261-0011-R11A-SM-4E3JY	Brain - Cerebellar Hemisphere
+GTEX-X261-0011-R5A-SM-3NMB4	Brain - Caudate (basal ganglia)
+GTEX-X261-0011-R6B-SM-4E3J8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-X261-3126-SM-4PQZC	Brain - Cerebellum
+GTEX-X4EP-0011-R10B-SM-4QASJ	Brain - Frontal Cortex (BA9)
+GTEX-X4EP-0011-R11B-SM-4QASK	Brain - Cerebellar Hemisphere
+GTEX-X4EP-3026-SM-3P5YP	Brain - Cerebellum
+GTEX-X4XX-0011-R10B-SM-46MWO	Brain - Frontal Cortex (BA9)
+GTEX-X4XX-0011-R11A-SM-46MWQ	Brain - Cerebellar Hemisphere
+GTEX-X4XX-0011-R1B-SM-3P622	Brain - Hippocampus
+GTEX-X4XX-0011-R5A-SM-46MWN	Brain - Caudate (basal ganglia)
+GTEX-X4XX-0011-R6B-SM-46MWP	Brain - Nucleus accumbens (basal ganglia)
+GTEX-X4XX-2926-SM-3NMB1	Brain - Cerebellum
+GTEX-X4XX-3026-SM-3NMB2	Brain - Cortex
+GTEX-X4XY-0011-R6B-SM-46MVB	Brain - Nucleus accumbens (basal ganglia)
+GTEX-X585-0011-R10A-SM-46MUY	Brain - Frontal Cortex (BA9)
+GTEX-X585-0011-R11B-SM-46MUZ	Brain - Cerebellar Hemisphere
+GTEX-X585-0011-R1B-SM-46MVE	Brain - Hippocampus
+GTEX-X585-0011-R5A-SM-46MVI	Brain - Caudate (basal ganglia)
+GTEX-X585-0011-R6A-SM-46MVJ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-X585-3026-SM-46MWF	Brain - Cortex
+GTEX-XLM4-0011-R10A-SM-4AT5P	Brain - Frontal Cortex (BA9)
+GTEX-XLM4-0011-R6A-SM-4AT4B	Brain - Nucleus accumbens (basal ganglia)
+GTEX-XLM4-2926-SM-4AT59	Brain - Cerebellum
+GTEX-XLM4-3026-SM-4AT6L	Brain - Cortex
+GTEX-XMD1-0011-R11A-SM-4AT5J	Brain - Cerebellar Hemisphere
+GTEX-XMD1-0011-R1A-SM-4AT4C	Brain - Hippocampus
+GTEX-XMD1-0011-R5A-SM-4AT47	Brain - Caudate (basal ganglia)
+GTEX-XMD1-0011-R6A-SM-4AT5K	Brain - Nucleus accumbens (basal ganglia)
+GTEX-XMD1-2826-SM-4AT5F	Brain - Cerebellum
+GTEX-Y111-2726-SM-4TT3N	Brain - Cortex
+GTEX-Y111-2826-SM-4TT3O	Brain - Cerebellum
+GTEX-Y8DK-0011-R10A-SM-4SOK1	Brain - Frontal Cortex (BA9)
+GTEX-Y8DK-0011-R11A-SM-4SOK2	Brain - Cerebellar Hemisphere
+GTEX-Y8DK-0011-R1A-SM-4RGLO	Brain - Hippocampus
+GTEX-Y8DK-0011-R5B-SM-4RTW6	Brain - Caudate (basal ganglia)
+GTEX-Y8DK-0011-R6A-SM-4V6EG	Brain - Nucleus accumbens (basal ganglia)
+GTEX-Y8DK-0726-SM-4TT3S	Brain - Cerebellum
+GTEX-Y8DK-0826-SM-4TT3T	Brain - Cortex
+GTEX-YFC4-0011-R10a-SM-4SOK5	Brain - Frontal Cortex (BA9)
+GTEX-YFC4-0011-R11a-SM-4SOK6	Brain - Cerebellar Hemisphere
+GTEX-YFC4-0011-R1a-SM-4V6EH	Brain - Hippocampus
+GTEX-YFC4-0011-R5a-SM-4RGLR	Brain - Caudate (basal ganglia)
+GTEX-YFC4-0011-R6b-SM-4V6E1	Brain - Nucleus accumbens (basal ganglia)
+GTEX-YFC4-3026-SM-5IFJK	Brain - Cerebellum
+GTEX-YFC4-3126-SM-5PNV6	Brain - Cortex
+GTEX-YJ89-0011-R10a-SM-4SOK9	Brain - Frontal Cortex (BA9)
+GTEX-YJ89-0011-R11a-SM-4SOKA	Brain - Cerebellar Hemisphere
+GTEX-YJ89-0011-R1a-SM-4RGLS	Brain - Hippocampus
+GTEX-YJ89-0011-R5a-SM-4V6GM	Brain - Caudate (basal ganglia)
+GTEX-YJ89-0011-R6a-SM-4V6GN	Brain - Nucleus accumbens (basal ganglia)
+GTEX-YJ89-2926-SM-5P9IT	Brain - Cerebellum
+GTEX-YJ89-3026-SM-5IFJI	Brain - Cortex
+GTEX-Z93S-0011-R10a-SM-4RGNM	Brain - Frontal Cortex (BA9)
+GTEX-Z93S-0011-R11a-SM-4RGNN	Brain - Cerebellar Hemisphere
+GTEX-Z93S-0011-R5b-SM-4RGNI	Brain - Caudate (basal ganglia)
+GTEX-Z93S-0011-R6b-SM-4RGNJ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-Z93S-2826-SM-57WBL	Brain - Cerebellum
+GTEX-Z93S-2926-SM-57WB9	Brain - Cortex
+GTEX-ZAB4-0011-R10a-SM-4SOKH	Brain - Frontal Cortex (BA9)
+GTEX-ZAB4-0011-R11a-SM-4SOKI	Brain - Cerebellar Hemisphere
+GTEX-ZAB4-0011-R1a-SM-4RGNO	Brain - Hippocampus
+GTEX-ZAB4-0011-R5a-SM-4SOKC	Brain - Caudate (basal ganglia)
+GTEX-ZAB4-0011-R6a-SM-4SOKD	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZAB4-2926-SM-57WCV	Brain - Cerebellum
+GTEX-ZAJG-3026-SM-5HL92	Brain - Cerebellum
+GTEX-ZAJG-3126-SM-5HL9J	Brain - Cortex
+GTEX-ZAK1-2926-SM-5HL9S	Brain - Cerebellum
+GTEX-ZAK1-3026-SM-5S2MJ	Brain - Cortex
+GTEX-ZDXO-0011-R10a-SM-4WWD8	Brain - Frontal Cortex (BA9)
+GTEX-ZDXO-0011-R11a-SM-4WWD9	Brain - Cerebellar Hemisphere
+GTEX-ZDXO-0011-R1a-SM-4WKF4	Brain - Hippocampus
+GTEX-ZDXO-0011-R5a-SM-4WKG5	Brain - Caudate (basal ganglia)
+GTEX-ZDXO-0011-R6a-SM-4WWCT	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZDXO-2126-SM-4WKFI	Brain - Cortex
+GTEX-ZDXO-2926-SM-4WKFM	Brain - Cerebellum
+GTEX-ZE7O-0011-R11a-SM-57WBC	Brain - Cerebellar Hemisphere
+GTEX-ZE7O-0011-R1a-SM-57WDM	Brain - Hippocampus
+GTEX-ZE7O-0011-R5a-SM-57WBO	Brain - Caudate (basal ganglia)
+GTEX-ZE7O-0011-R6a-SM-57WCI	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZE7O-3126-SM-5HL5X	Brain - Cortex
+GTEX-ZE9C-0011-R11a-SM-4WKGG	Brain - Cerebellar Hemisphere
+GTEX-ZE9C-0011-R5a-SM-5EGLO	Brain - Caudate (basal ganglia)
+GTEX-ZE9C-0011-R6a-SM-4WWCW	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZE9C-3026-SM-4WKHB	Brain - Cortex
+GTEX-ZF28-0011-R10a-SM-4WWEH	Brain - Frontal Cortex (BA9)
+GTEX-ZF28-0011-R11a-SM-4WWEI	Brain - Cerebellar Hemisphere
+GTEX-ZF28-0011-R1a-SM-4WWD1	Brain - Hippocampus
+GTEX-ZF28-0011-R5a-SM-4WWCZ	Brain - Caudate (basal ganglia)
+GTEX-ZF28-0011-R6a-SM-4WKHI	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZF28-2926-SM-4WKG1	Brain - Cerebellum
+GTEX-ZF28-3026-SM-4WKHP	Brain - Cortex
+GTEX-ZUA1-0011-R10a-SM-51MT6	Brain - Frontal Cortex (BA9)
+GTEX-ZUA1-0011-R11b-SM-51MTI	Brain - Cerebellar Hemisphere
+GTEX-ZUA1-0011-R1a-SM-4YCE2	Brain - Hippocampus
+GTEX-ZUA1-0011-R5b-SM-51MTG	Brain - Caudate (basal ganglia)
+GTEX-ZUA1-0011-R6b-SM-4YCDD	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZUA1-2926-SM-59HL3	Brain - Cerebellum
+GTEX-ZUA1-3026-SM-59HJC	Brain - Cortex
+GTEX-ZV68-0011-R10a-SM-51MT7	Brain - Frontal Cortex (BA9)
+GTEX-ZV68-0011-R5a-SM-4YCDW	Brain - Caudate (basal ganglia)
+GTEX-ZV68-0011-R6a-SM-51MSR	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZVT3-0011-R10b-SM-57WB6	Brain - Frontal Cortex (BA9)
+GTEX-ZVT3-0011-R11b-SM-57WBI	Brain - Cerebellar Hemisphere
+GTEX-ZVT3-0011-R5a-SM-51MSI	Brain - Caudate (basal ganglia)
+GTEX-ZVT3-0011-R6a-SM-51MSU	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZVT3-2926-SM-5GU6M	Brain - Cerebellum
+GTEX-ZVT3-3026-SM-5E43N	Brain - Cortex
+GTEX-ZVZQ-0011-R10b-SM-51MRT	Brain - Frontal Cortex (BA9)
+GTEX-ZVZQ-0011-R11a-SM-51MS6	Brain - Cerebellar Hemisphere
+GTEX-ZVZQ-0011-R1a-SM-57WBU	Brain - Hippocampus
+GTEX-ZVZQ-0011-R5b-SM-57WDC	Brain - Caudate (basal ganglia)
+GTEX-ZVZQ-0011-R6b-SM-57WAY	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZXG5-0011-R10a-SM-57WDD	Brain - Frontal Cortex (BA9)
+GTEX-ZXG5-0011-R5b-SM-57WBN	Brain - Caudate (basal ganglia)
+GTEX-ZXG5-0011-R6a-SM-57WBZ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZYFD-2926-SM-5GID9	Brain - Cerebellum
+GTEX-ZYFD-3026-SM-5E44C	Brain - Cortex
+GTEX-ZYY3-3026-SM-5GIEJ	Brain - Cerebellum
+GTEX-ZYY3-3126-SM-5SI9L	Brain - Cortex
+GTEX-ZZPT-2926-SM-5EQ5S	Brain - Cerebellum
+GTEX-ZZPT-3026-SM-5GZXH	Brain - Cortex
+MGH264_A01	MGH264_tumor
+MGH264_A02	MGH264_tumor
+MGH264_A03	MGH264_tumor
+MGH264_A04	MGH264_tumor
+MGH264_A05	MGH264_tumor
+MGH264_A06	MGH264_tumor
+MGH264_A07	MGH264_tumor
+MGH264_A08	MGH264_tumor
+MGH264_A10	MGH264_tumor
+MGH264_A11	MGH264_tumor
+MGH264_B01	MGH264_tumor
+MGH264_B02	MGH264_tumor
+MGH264_B03	MGH264_tumor
+MGH264_B04	MGH264_tumor
+MGH264_B05	MGH264_tumor
+MGH264_B06	MGH264_tumor
+MGH264_B10	MGH264_tumor
+MGH264_B11	MGH264_tumor
+MGH264_C01	MGH264_tumor
+MGH264_C03	MGH264_tumor
+MGH264_C04	MGH264_tumor
+MGH264_C05	MGH264_tumor
+MGH264_C08	MGH264_tumor
+MGH264_C12	MGH264_tumor
+MGH264_D01	MGH264_tumor
+MGH264_D02	MGH264_tumor
+MGH264_D03	MGH264_tumor
+MGH264_D04	MGH264_tumor
+MGH264_D05	MGH264_tumor
+MGH264_D08	MGH264_tumor
+MGH264_D09	MGH264_tumor
+MGH264_D10	MGH264_tumor
+MGH264_D12	MGH264_tumor
+MGH264_E01	MGH264_tumor
+MGH264_E03	MGH264_tumor
+MGH264_E05	MGH264_tumor
+MGH264_E06	MGH264_tumor
+MGH264_E08	MGH264_tumor
+MGH264_E10	MGH264_tumor
+MGH264_E12	MGH264_tumor
+MGH264_F01	MGH264_tumor
+MGH264_F02	MGH264_tumor
+MGH264_F03	MGH264_tumor
+MGH264_F04	MGH264_tumor
+MGH264_F07	MGH264_tumor
+MGH264_F09	MGH264_tumor
+MGH264_F10	MGH264_tumor
+MGH264_F12	MGH264_tumor
+MGH264_G01	MGH264_tumor
+MGH264_G02	MGH264_tumor
+MGH264_G03	MGH264_tumor
+MGH264_G04	MGH264_tumor
+MGH264_G06	MGH264_tumor
+MGH264_G08	MGH264_tumor
+MGH264_G09	MGH264_tumor
+MGH264_G10	MGH264_tumor
+MGH264_G11	MGH264_tumor
+MGH264_G12	MGH264_tumor
+MGH264_H01	MGH264_tumor
+MGH264_H02	MGH264_tumor
+MGH264_H03	MGH264_tumor
+MGH264_H04	MGH264_tumor
+MGH264_H08	MGH264_tumor
+MGH264_H10	MGH264_tumor
+MGH264_H12	MGH264_tumor
+MGH26_A02	MGH26_tumor
+MGH26_A03	MGH26_tumor
+MGH26_A05	MGH26_tumor
+MGH26_A07	MGH26_tumor
+MGH26_A08	MGH26_tumor
+MGH26_A09	MGH26_tumor
+MGH26_A12	MGH26_tumor
+MGH26_B01	MGH26_tumor
+MGH26_B02	MGH26_tumor
+MGH26_B05	MGH26_tumor
+MGH26_B06	MGH26_tumor
+MGH26_B10	MGH26_tumor
+MGH26_B12	MGH26_tumor
+MGH26_C01	MGH26_tumor
+MGH26_C03	MGH26_tumor
+MGH26_C05	MGH26_tumor
+MGH26_C12	MGH26_tumor
+MGH26_D01	MGH26_tumor
+MGH26_D03	MGH26_tumor
+MGH26_D06	MGH26_tumor
+MGH26_D07	MGH26_tumor
+MGH26_D08	MGH26_tumor
+MGH26_D10	MGH26_tumor
+MGH26_E02	MGH26_tumor
+MGH26_E04	MGH26_tumor
+MGH26_E05	MGH26_tumor
+MGH26_E06	MGH26_tumor
+MGH26_E07	MGH26_tumor
+MGH26_E08	MGH26_tumor
+MGH26_E10	MGH26_tumor
+MGH26_E12	MGH26_tumor
+MGH26_F02	MGH26_tumor
+MGH26_F05	MGH26_tumor
+MGH26_F08	MGH26_tumor
+MGH26_F09	MGH26_tumor
+MGH26_F10	MGH26_tumor
+MGH26_F11	MGH26_tumor
+MGH26_F12	MGH26_tumor
+MGH26_G01	MGH26_tumor
+MGH26_G02	MGH26_tumor
+MGH26_G03	MGH26_tumor
+MGH26_G06	MGH26_tumor
+MGH26_G09	MGH26_tumor
+MGH26_G10	MGH26_tumor
+MGH26_G11	MGH26_tumor
+MGH26_G12	MGH26_tumor
+MGH26_H01	MGH26_tumor
+MGH26_H02	MGH26_tumor
+MGH26_H05	MGH26_tumor
+MGH26_H07	MGH26_tumor
+MGH26_H08	MGH26_tumor
+MGH26_H11	MGH26_tumor
+MGH26_H12	MGH26_tumor
+MGH28_A01	MGH28_tumor
+MGH28_A02	MGH28_tumor
+MGH28_A03	MGH28_tumor
+MGH28_A04	MGH28_tumor
+MGH28_A05	MGH28_tumor
+MGH28_A06	MGH28_tumor
+MGH28_A07	MGH28_tumor
+MGH28_A08	MGH28_tumor
+MGH28_A09	MGH28_tumor
+MGH28_A10	MGH28_tumor
+MGH28_A11	MGH28_tumor
+MGH28_A12	MGH28_tumor
+MGH28_B01	MGH28_tumor
+MGH28_B02	MGH28_tumor
+MGH28_B03	MGH28_tumor
+MGH28_B04	MGH28_tumor
+MGH28_B05	MGH28_tumor
+MGH28_B06	MGH28_tumor
+MGH28_B07	MGH28_tumor
+MGH28_B08	MGH28_tumor
+MGH28_B09	MGH28_tumor
+MGH28_B10	MGH28_tumor
+MGH28_B11	MGH28_tumor
+MGH28_B12	MGH28_tumor
+MGH28_C01	MGH28_tumor
+MGH28_C02	MGH28_tumor
+MGH28_C03	MGH28_tumor
+MGH28_C04	MGH28_tumor
+MGH28_C05	MGH28_tumor
+MGH28_C06	MGH28_tumor
+MGH28_C07	MGH28_tumor
+MGH28_C08	MGH28_tumor
+MGH28_C09	MGH28_tumor
+MGH28_C10	MGH28_tumor
+MGH28_C11	MGH28_tumor
+MGH28_C12	MGH28_tumor
+MGH28_D01	MGH28_tumor
+MGH28_D03	MGH28_tumor
+MGH28_D04	MGH28_tumor
+MGH28_D05	MGH28_tumor
+MGH28_D06	MGH28_tumor
+MGH28_D07	MGH28_tumor
+MGH28_D08	MGH28_tumor
+MGH28_D09	MGH28_tumor
+MGH28_D10	MGH28_tumor
+MGH28_D11	MGH28_tumor
+MGH28_D12	MGH28_tumor
+MGH28_E01	MGH28_tumor
+MGH28_E02	MGH28_tumor
+MGH28_E03	MGH28_tumor
+MGH28_E04	MGH28_tumor
+MGH28_E05	MGH28_tumor
+MGH28_E06	MGH28_tumor
+MGH28_E07	MGH28_tumor
+MGH28_E08	MGH28_tumor
+MGH28_E09	MGH28_tumor
+MGH28_E10	MGH28_tumor
+MGH28_E11	MGH28_tumor
+MGH28_E12	MGH28_tumor
+MGH28_F01	MGH28_tumor
+MGH28_F02	MGH28_tumor
+MGH28_F03	MGH28_tumor
+MGH28_F04	MGH28_tumor
+MGH28_F05	MGH28_tumor
+MGH28_F06	MGH28_tumor
+MGH28_F07	MGH28_tumor
+MGH28_F08	MGH28_tumor
+MGH28_F09	MGH28_tumor
+MGH28_F11	MGH28_tumor
+MGH28_F12	MGH28_tumor
+MGH28_G01	MGH28_tumor
+MGH28_G02	MGH28_tumor
+MGH28_G03	MGH28_tumor
+MGH28_G04	MGH28_tumor
+MGH28_G05	MGH28_tumor
+MGH28_G06	MGH28_tumor
+MGH28_G07	MGH28_tumor
+MGH28_G08	MGH28_tumor
+MGH28_G09	MGH28_tumor
+MGH28_G10	MGH28_tumor
+MGH28_G11	MGH28_tumor
+MGH28_G12	MGH28_tumor
+MGH28_H01	MGH28_tumor
+MGH28_H02	MGH28_tumor
+MGH28_H03	MGH28_tumor
+MGH28_H04	MGH28_tumor
+MGH28_H05	MGH28_tumor
+MGH28_H06	MGH28_tumor
+MGH28_H07	MGH28_tumor
+MGH28_H08	MGH28_tumor
+MGH28_H09	MGH28_tumor
+MGH28_H10	MGH28_tumor
+MGH28_H11	MGH28_tumor
+MGH28_H12	MGH28_tumor
+MGH29_A01	MGH29_tumor
+MGH29_A02	MGH29_tumor
+MGH29_A03	MGH29_tumor
+MGH29_A04	MGH29_tumor
+MGH29_A05	MGH29_tumor
+MGH29_A06	MGH29_tumor
+MGH29_A07	MGH29_tumor
+MGH29_A08	MGH29_tumor
+MGH29_A10	MGH29_tumor
+MGH29_A11	MGH29_tumor
+MGH29_A12	MGH29_tumor
+MGH29_B02	MGH29_tumor
+MGH29_B03	MGH29_tumor
+MGH29_B04	MGH29_tumor
+MGH29_B05	MGH29_tumor
+MGH29_B06	MGH29_tumor
+MGH29_B08	MGH29_tumor
+MGH29_B09	MGH29_tumor
+MGH29_B10	MGH29_tumor
+MGH29_B12	MGH29_tumor
+MGH29_C01	MGH29_tumor
+MGH29_C03	MGH29_tumor
+MGH29_C04	MGH29_tumor
+MGH29_C07	MGH29_tumor
+MGH29_C08	MGH29_tumor
+MGH29_C09	MGH29_tumor
+MGH29_C10	MGH29_tumor
+MGH29_C11	MGH29_tumor
+MGH29_C12	MGH29_tumor
+MGH29_D02	MGH29_tumor
+MGH29_D03	MGH29_tumor
+MGH29_D04	MGH29_tumor
+MGH29_D05	MGH29_tumor
+MGH29_D07	MGH29_tumor
+MGH29_D08	MGH29_tumor
+MGH29_D09	MGH29_tumor
+MGH29_D10	MGH29_tumor
+MGH29_D11	MGH29_tumor
+MGH29_D12	MGH29_tumor
+MGH29_E01	MGH29_tumor
+MGH29_E02	MGH29_tumor
+MGH29_E03	MGH29_tumor
+MGH29_E04	MGH29_tumor
+MGH29_E05	MGH29_tumor
+MGH29_E06	MGH29_tumor
+MGH29_E07	MGH29_tumor
+MGH29_E09	MGH29_tumor
+MGH29_E12	MGH29_tumor
+MGH29_F01	MGH29_tumor
+MGH29_F02	MGH29_tumor
+MGH29_F03	MGH29_tumor
+MGH29_F04	MGH29_tumor
+MGH29_F05	MGH29_tumor
+MGH29_F06	MGH29_tumor
+MGH29_F10	MGH29_tumor
+MGH29_F11	MGH29_tumor
+MGH29_F12	MGH29_tumor
+MGH29_G03	MGH29_tumor
+MGH29_G04	MGH29_tumor
+MGH29_G06	MGH29_tumor
+MGH29_G07	MGH29_tumor
+MGH29_G08	MGH29_tumor
+MGH29_G09	MGH29_tumor
+MGH29_G11	MGH29_tumor
+MGH29_H01	MGH29_tumor
+MGH29_H02	MGH29_tumor
+MGH29_H03	MGH29_tumor
+MGH29_H04	MGH29_tumor
+MGH29_H05	MGH29_tumor
+MGH29_H06	MGH29_tumor
+MGH29_H07	MGH29_tumor
+MGH29_H08	MGH29_tumor
+MGH29_H10	MGH29_tumor
+MGH29_H11	MGH29_tumor
+MGH29_H12	MGH29_tumor
+MGH30_A01	MGH30_tumor
+MGH30_A06	MGH30_tumor
+MGH30_A07	MGH30_tumor
+MGH30_A08	MGH30_tumor
+MGH30_A09	MGH30_tumor
+MGH30_A11	MGH30_tumor
+MGH30_A12	MGH30_tumor
+MGH30_B02	MGH30_tumor
+MGH30_B03	MGH30_tumor
+MGH30_B05	MGH30_tumor
+MGH30_B06	MGH30_tumor
+MGH30_B07	MGH30_tumor
+MGH30_B08	MGH30_tumor
+MGH30_B09	MGH30_tumor
+MGH30_B10	MGH30_tumor
+MGH30_B12	MGH30_tumor
+MGH30_C01	MGH30_tumor
+MGH30_C05	MGH30_tumor
+MGH30_C06	MGH30_tumor
+MGH30_C07	MGH30_tumor
+MGH30_C08	MGH30_tumor
+MGH30_C09	MGH30_tumor
+MGH30_C10	MGH30_tumor
+MGH30_C11	MGH30_tumor
+MGH30_C12	MGH30_tumor
+MGH30_D01	MGH30_tumor
+MGH30_D02	MGH30_tumor
+MGH30_D03	MGH30_tumor
+MGH30_D04	MGH30_tumor
+MGH30_D05	MGH30_tumor
+MGH30_D06	MGH30_tumor
+MGH30_D07	MGH30_tumor
+MGH30_D08	MGH30_tumor
+MGH30_D09	MGH30_tumor
+MGH30_D10	MGH30_tumor
+MGH30_D11	MGH30_tumor
+MGH30_D12	MGH30_tumor
+MGH30_E01	MGH30_tumor
+MGH30_E05	MGH30_tumor
+MGH30_E07	MGH30_tumor
+MGH30_E08	MGH30_tumor
+MGH30_E09	MGH30_tumor
+MGH30_E11	MGH30_tumor
+MGH30_E12	MGH30_tumor
+MGH30_F01	MGH30_tumor
+MGH30_F02	MGH30_tumor
+MGH30_F03	MGH30_tumor
+MGH30_F06	MGH30_tumor
+MGH30_F08	MGH30_tumor
+MGH30_F09	MGH30_tumor
+MGH30_F10	MGH30_tumor
+MGH30_F11	MGH30_tumor
+MGH30_F12	MGH30_tumor
+MGH30_G01	MGH30_tumor
+MGH30_G04	MGH30_tumor
+MGH30_G05	MGH30_tumor
+MGH30_G06	MGH30_tumor
+MGH30_G07	MGH30_tumor
+MGH30_G08	MGH30_tumor
+MGH30_G09	MGH30_tumor
+MGH30_G10	MGH30_tumor
+MGH30_G11	MGH30_tumor
+MGH30_H02	MGH30_tumor
+MGH30_H03	MGH30_tumor
+MGH30_H04	MGH30_tumor
+MGH30_H05	MGH30_tumor
+MGH30_H06	MGH30_tumor
+MGH30_H07	MGH30_tumor
+MGH30_H08	MGH30_tumor
+MGH30_H09	MGH30_tumor
+MGH30_H10	MGH30_tumor
+MGH30_H11	MGH30_tumor
+MGH30_H12	MGH30_tumor
+MGH31_A02	MGH31_tumor
+MGH31_A03	MGH31_tumor
+MGH31_A04	MGH31_tumor
+MGH31_A05	MGH31_tumor
+MGH31_A06	MGH31_tumor
+MGH31_A07	MGH31_tumor
+MGH31_A08	MGH31_tumor
+MGH31_A10	MGH31_tumor
+MGH31_A11	MGH31_tumor
+MGH31_B01	MGH31_tumor
+MGH31_B02	MGH31_tumor
+MGH31_B04	MGH31_tumor
+MGH31_B05	MGH31_tumor
+MGH31_B06	MGH31_tumor
+MGH31_B07	MGH31_tumor
+MGH31_B08	MGH31_tumor
+MGH31_B09	MGH31_tumor
+MGH31_B10	MGH31_tumor
+MGH31_C02	MGH31_tumor
+MGH31_C03	MGH31_tumor
+MGH31_C04	MGH31_tumor
+MGH31_C05	MGH31_tumor
+MGH31_C06	MGH31_tumor
+MGH31_C07	MGH31_tumor
+MGH31_C09	MGH31_tumor
+MGH31_C10	MGH31_tumor
+MGH31_C11	MGH31_tumor
+MGH31_D01	MGH31_tumor
+MGH31_D02	MGH31_tumor
+MGH31_D05	MGH31_tumor
+MGH31_D07	MGH31_tumor
+MGH31_D09	MGH31_tumor
+MGH31_D10	MGH31_tumor
+MGH31_D11	MGH31_tumor
+MGH31_D12	MGH31_tumor
+MGH31_E01	MGH31_tumor
+MGH31_E02	MGH31_tumor
+MGH31_E03	MGH31_tumor
+MGH31_E04	MGH31_tumor
+MGH31_E05	MGH31_tumor
+MGH31_E08	MGH31_tumor
+MGH31_E09	MGH31_tumor
+MGH31_E12	MGH31_tumor
+MGH31_F02	MGH31_tumor
+MGH31_F03	MGH31_tumor
+MGH31_F04	MGH31_tumor
+MGH31_F06	MGH31_tumor
+MGH31_F07	MGH31_tumor
+MGH31_F08	MGH31_tumor
+MGH31_F09	MGH31_tumor
+MGH31_F10	MGH31_tumor
+MGH31_F11	MGH31_tumor
+MGH31_F12	MGH31_tumor
+MGH31_G01	MGH31_tumor
+MGH31_G02	MGH31_tumor
+MGH31_G05	MGH31_tumor
+MGH31_G07	MGH31_tumor
+MGH31_G09	MGH31_tumor
+MGH31_G12	MGH31_tumor
+MGH31_H01	MGH31_tumor
+MGH31_H02	MGH31_tumor
+MGH31_H04	MGH31_tumor
+MGH31_H05	MGH31_tumor
+MGH31_H06	MGH31_tumor
+MGH31_H07	MGH31_tumor
+MGH31_H08	MGH31_tumor
+MGH31_H09	MGH31_tumor
+MGH31_H10	MGH31_tumor
+MGH31_H11	MGH31_tumor
+MGH31_H12	MGH31_tumor
