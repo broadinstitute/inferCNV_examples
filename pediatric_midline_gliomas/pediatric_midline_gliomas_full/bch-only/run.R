@@ -1,10 +1,6 @@
 #!/usr/bin/env Rscript
 
 
-if (file.exists("ped_midline_gliomas.counts.p100k.matrix.gz") & ! file.exists("ped_midline_gliomas.counts.p100k.matrix") ) {
-    system("gunzip -c ped_midline_gliomas.counts.p100k.matrix.gz > ped_midline_gliomas.counts.p100k.matrix")
-}
-
 library("infercnv")
 
 # create the infercnv object
@@ -19,7 +15,7 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              cutoff=1, 
                              out_dir="output_dir", 
                              cluster_by_groups=T, 
-                             plot_steps=F,
+                             plot_steps=T,
                              include.spike=T,
                              mask_nonDE_genes=T
                              )
