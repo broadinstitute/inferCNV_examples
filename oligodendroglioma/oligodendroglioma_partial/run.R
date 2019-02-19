@@ -14,8 +14,6 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              cutoff=1, 
                              out_dir="output_dir", 
                              cluster_by_groups=T, 
-                             plot_steps=F,
-                             include.spike=T,
-                             mask_nonDE_genes=T
+                             plot_steps=T
                              )
 
