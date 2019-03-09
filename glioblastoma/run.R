@@ -29,7 +29,7 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              plot_steps=T,
                              scale_data=T,
                              denoise=T,
-                             noise_filter=0.15
+                             noise_filter=0.12
                              )
 
 
