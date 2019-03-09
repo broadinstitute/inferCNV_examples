@@ -27,6 +27,9 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              out_dir="output_dir", 
                              cluster_by_groups=T, 
                              plot_steps=T,
+                             scale_data=T,
+                             denoise=T,
+                             noise_filter=0.15
                              )
 
 

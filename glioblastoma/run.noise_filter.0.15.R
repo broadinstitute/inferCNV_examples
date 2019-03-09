@@ -27,8 +27,6 @@ infercnv_obj = infercnv::run(infercnv_obj,
                              out_dir="output_dir", 
                              cluster_by_groups=T, 
                              plot_steps=F,
-                             include.spike=F,
-                             normalize_factor=1e6, # make cpm
                              noise_filter=0.15
                              )
 
